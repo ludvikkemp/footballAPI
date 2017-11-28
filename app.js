@@ -9,21 +9,18 @@ app.use(bodyParser.json());
 
 app.get('/scrape', (req, res) => {
   const leagueURL = 'https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1';
-  const teamURL = 'https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2017/';
+  const teamURL = 'https://www.transfermarkt.com';
   const playerURL = 'https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390';
   
-  const form = {
-    username: 'usr',
-    password: 'pwd',
-    opaque: 'opaque',
-    logintype: '1'
-  };
+  const form = { username: 'usr', password: 'pwd', opaque: 'opaque', logintype: '1' };
   
   const headers = { 
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Firefox/24.0',
     'Content-Type' : 'application/x-www-form-urlencoded' 
   };
 
+  // ** Request numeber 1 **
+  // Scraping tansfermarket for list of team in the Premier Laeague
   request({ url: leagueURL, form: form, headers: headers }, (err, res, body) => {
     const $ = cheerio.load(body);
     const data = $('.responsive-table .items tbody .zentriert .vereinprofil_tooltip').toArray();
@@ -36,24 +33,38 @@ app.get('/scrape', (req, res) => {
       }
       teams.push(obj);
     }
-    //console.log(teams)
+
+    // ** Request numeber 2 **
+    // Within the first request in order to get url links to all teams in 
+    // the Premier League Loops through the teams array to get the links
+    let players = [];
+    for (let i = 0; i < teams.length; i++) {
+      request({ url: teamURL + teams[i].href, form: form, headers: headers }, (err, res, body) => {
+        const $ = cheerio.load(body);
+        const data = $('span.hide-for-small a.spielprofil_tooltip').toArray();
+        for (let j = 0; j < data.length; j++) {
+          const obj =  {
+            id: data[j].attribs.id,
+            name: data[j].attribs.title,
+            url: data[j].attribs.href
+          }
+          players.push(obj);
+        }
+      })
+    }
+
+    // Timeout set to wait for all threads/callbacks to finish in request nr 2
+    // players.json and teams.json files created and data written to them
+    setTimeout(()=> {
+      fs.writeFile('players.json', JSON.stringify(players, null, 4), (err) => {
+        console.log('players.json successfully written!');
+      })
+      fs.writeFile('teams.json', JSON.stringify(teams, null, 4), (err) => {
+        console.log('teams.json successfully written!');
+      })
+    }, 3000)
   })
 
-  request({ url: teamURL, form: form, headers: headers }, (err, res, body) => {
-    const $ = cheerio.load(body);
-    const data = $('span.hide-for-small a.spielprofil_tooltip').toArray();
-    const players = [];
-    for (let i = 0; i < data.length; i++) {
-      const obj =  {
-        id: data[i].attribs.id,
-        name: data[i].attribs.title,
-        url: data[i].attribs.href
-      }
-      players.push(obj);
-    }
-    //console.log(players)
-  })
-  
   res.json('Success');
 })
 
