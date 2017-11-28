@@ -19,6 +19,12 @@ app.get('/scrape', (req, res) => {
     'Content-Type' : 'application/x-www-form-urlencoded' 
   };
 
+  /* Code that workes but has to be implemented
+  const teamNames = $('.responsive-table .items tbody .hauptlink .vereinprofil_tooltip').map(function(i, elem) {
+    return $(this).text();
+  }).get().join(', ').split(', ');
+  */
+  
   // ** Request numeber 1 **
   // Scraping tansfermarket for list of team in the Premier Laeague
   request({ url: leagueURL, form: form, headers: headers }, (err, res, body) => {
@@ -46,7 +52,11 @@ app.get('/scrape', (req, res) => {
           const obj =  {
             id: data[j].attribs.id,
             name: data[j].attribs.title,
-            url: data[j].attribs.href
+            url: data[j].attribs.href,
+            team: {
+              id: teams[i].id,
+              name: teams[i].name
+            }
           }
           players.push(obj);
         }
@@ -55,7 +65,7 @@ app.get('/scrape', (req, res) => {
 
     // Timeout set to wait for all threads/callbacks to finish in request nr 2
     // players.json and teams.json files created and data written to them
-    setTimeout(()=> {
+    setTimeout(() => {
       fs.writeFile('players.json', JSON.stringify(players, null, 4), (err) => {
         console.log('players.json successfully written!');
       })
