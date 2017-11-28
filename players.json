@@ -1,2504 +1,245 @@
 [
     {
-        "id": "13572",
-        "name": "Ben Foster",
-        "url": "/ben-foster/profil/spieler/13572",
+        "id": "99397",
+        "name": "Karl Darlow",
+        "url": "/karl-darlow/profil/spieler/99397",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "3838",
-        "name": "Boaz Myhill",
-        "url": "/boaz-myhill/profil/spieler/3838",
+        "id": "39037",
+        "name": "Rob Elliot",
+        "url": "/rob-elliot/profil/spieler/39037",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "42412",
-        "name": "Jonny Evans",
-        "url": "/jonny-evans/profil/spieler/42412",
+        "id": "226049",
+        "name": "Freddie Woodman",
+        "url": "/freddie-woodman/profil/spieler/226049",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "111524",
-        "name": "Ahmed Hegazy",
-        "url": "/ahmed-hegazy/profil/spieler/111524",
+        "id": "203348",
+        "name": "Chancel Mbemba",
+        "url": "/chancel-mbemba/profil/spieler/203348",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "40567",
-        "name": "Gareth McAuley",
-        "url": "/gareth-mcauley/profil/spieler/40567",
+        "id": "98240",
+        "name": "Ciaran Clark",
+        "url": "/ciaran-clark/profil/spieler/98240",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "44792",
-        "name": "Kieran Gibbs",
-        "url": "/kieran-gibbs/profil/spieler/44792",
+        "id": "183318",
+        "name": "Jamaal Lascelles",
+        "url": "/jamaal-lascelles/profil/spieler/183318",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "121477",
-        "name": "Craig Dawson",
-        "url": "/craig-dawson/profil/spieler/121477",
+        "id": "127108",
+        "name": "Florian Lejeune",
+        "url": "/florian-lejeune/profil/spieler/127108",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "111508",
-        "name": "Allan Nyom",
-        "url": "/allan-nyom/profil/spieler/111508",
+        "id": "179471",
+        "name": "Curtis Good",
+        "url": "/curtis-good/profil/spieler/179471",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "45184",
-        "name": "Grzegorz Krychowiak",
-        "url": "/grzegorz-krychowiak/profil/spieler/45184",
+        "id": "170321",
+        "name": "Paul Dummett",
+        "url": "/paul-dummett/profil/spieler/170321",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "61832",
-        "name": "Jake Livermore",
-        "url": "/jake-livermore/profil/spieler/61832",
+        "id": "170929",
+        "name": "Massadio Haidara",
+        "url": "/massadio-haidara/profil/spieler/170929",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "45330",
-        "name": "Claudio Yacob",
-        "url": "/claudio-yacob/profil/spieler/45330",
+        "id": "255916",
+        "name": "DeAndre Yedlin",
+        "url": "/deandre-yedlin/profil/spieler/255916",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "3291",
-        "name": "Gareth Barry",
-        "url": "/gareth-barry/profil/spieler/3291",
+        "id": "162029",
+        "name": "Javier Manquillo",
+        "url": "/javier-manquillo/profil/spieler/162029",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "27614",
-        "name": "James Morrison",
-        "url": "/james-morrison/profil/spieler/27614",
+        "id": "29055",
+        "name": "Jesús Gámez",
+        "url": "/jesus-gamez/profil/spieler/29055",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "387331",
-        "name": "Sam Field",
-        "url": "/sam-field/profil/spieler/387331",
+        "id": "338424",
+        "name": "Mikel Merino",
+        "url": "/mikel-merino/profil/spieler/338424",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "36814",
-        "name": "Chris Brunt",
-        "url": "/chris-brunt/profil/spieler/36814",
+        "id": "61644",
+        "name": "Jack Colback",
+        "url": "/jack-colback/profil/spieler/61644",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "59631",
-        "name": "Nacer Chadli",
-        "url": "/nacer-chadli/profil/spieler/59631",
+        "id": "206225",
+        "name": "Isaac Hayden",
+        "url": "/isaac-hayden/profil/spieler/206225",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "85935",
-        "name": "James McClean",
-        "url": "/james-mcclean/profil/spieler/85935",
+        "id": "71292",
+        "name": "Jonjo Shelvey",
+        "url": "/jonjo-shelvey/profil/spieler/71292",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "65976",
-        "name": "Hal Robson-Kanu",
-        "url": "/hal-robson-kanu/profil/spieler/65976",
+        "id": "70950",
+        "name": "Mohamed Diamé",
+        "url": "/mohamed-diame/profil/spieler/70950",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "341317",
-        "name": "Oliver Burke",
-        "url": "/oliver-burke/profil/spieler/341317",
+        "id": "92469",
+        "name": "Matt Ritchie",
+        "url": "/matt-ritchie/profil/spieler/92469",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "77274",
-        "name": "Matt Phillips",
-        "url": "/matt-phillips/profil/spieler/77274",
+        "id": "51540",
+        "name": "Henri Saivet",
+        "url": "/henri-saivet/profil/spieler/51540",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "80197",
-        "name": "José Salomón Rondón",
-        "url": "/jose-salomon-rondon/profil/spieler/80197",
+        "id": "186997",
+        "name": "Christian Atsu",
+        "url": "/christian-atsu/profil/spieler/186997",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "53360",
-        "name": "Jay Rodríguez",
-        "url": "/jay-rodriguez/profil/spieler/53360",
+        "id": "258188",
+        "name": "Rolando Aarons",
+        "url": "/rolando-aarons/profil/spieler/258188",
         "team": {
-            "id": "984",
-            "name": "West Bromwich Albion"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "33873",
-        "name": "Asmir Begovic",
-        "url": "/asmir-begovic/profil/spieler/33873",
+        "id": "199527",
+        "name": "Jacob Murphy",
+        "url": "/jacob-murphy/profil/spieler/199527",
         "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "4233",
-        "name": "Adam Federici",
-        "url": "/adam-federici/profil/spieler/4233",
+        "id": "246968",
+        "name": "Ayoze Pérez",
+        "url": "/ayoze-perez/profil/spieler/246968",
         "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "15220",
-        "name": "Artur Boruc",
-        "url": "/artur-boruc/profil/spieler/15220",
+        "id": "196522",
+        "name": "Dwight Gayle",
+        "url": "/dwight-gayle/profil/spieler/196522",
         "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "427568",
-        "name": "Aaron Ramsdale",
-        "url": "/aaron-ramsdale/profil/spieler/427568",
+        "id": "51152",
+        "name": "Aleksandar Mitrovic",
+        "url": "/aleksandar-mitrovic/profil/spieler/51152",
         "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
-        "id": "177476",
-        "name": "Nathan Aké",
-        "url": "/nathan-ake/profil/spieler/177476",
+        "id": "81999",
+        "name": "Joselu",
+        "url": "/joselu/profil/spieler/81999",
         "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "90836",
-        "name": "Steve Cook",
-        "url": "/steve-cook/profil/spieler/90836",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "253677",
-        "name": "Tyrone Mings",
-        "url": "/tyrone-mings/profil/spieler/253677",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "61819",
-        "name": "Charlie Daniels",
-        "url": "/charlie-daniels/profil/spieler/61819",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "175745",
-        "name": "Brad Smith",
-        "url": "/brad-smith/profil/spieler/175745",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "42298",
-        "name": "Rhoys Wiggins",
-        "url": "/rhoys-wiggins/profil/spieler/42298",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "61841",
-        "name": "Adam Smith",
-        "url": "/adam-smith/profil/spieler/61841",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "13573",
-        "name": "Simon Francis",
-        "url": "/simon-francis/profil/spieler/13573",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "249089",
-        "name": "Lewis Cook",
-        "url": "/lewis-cook/profil/spieler/249089",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "44983",
-        "name": "Dan Gosling",
-        "url": "/dan-gosling/profil/spieler/44983",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "55742",
-        "name": "Harry Arter",
-        "url": "/harry-arter/profil/spieler/55742",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "29975",
-        "name": "Andrew Surman",
-        "url": "/andrew-surman/profil/spieler/29975",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "223047",
-        "name": "Emerson Hyndman",
-        "url": "/emerson-hyndman/profil/spieler/223047",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "146795",
-        "name": "Ryan Fraser",
-        "url": "/ryan-fraser/profil/spieler/146795",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "87672",
-        "name": "Junior Stanislas",
-        "url": "/junior-stanislas/profil/spieler/87672",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "36939",
-        "name": "Marc Pugh",
-        "url": "/marc-pugh/profil/spieler/36939",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "195652",
-        "name": "Jordon Ibe",
-        "url": "/jordon-ibe/profil/spieler/195652",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "287528",
-        "name": "Connor Mahoney",
-        "url": "/connor-mahoney/profil/spieler/287528",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "91059",
-        "name": "Joshua King",
-        "url": "/joshua-king/profil/spieler/91059",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "110858",
-        "name": "Benik Afobe",
-        "url": "/benik-afobe/profil/spieler/110858",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "123682",
-        "name": "Callum Wilson",
-        "url": "/callum-wilson/profil/spieler/123682",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "3875",
-        "name": "Jermain Defoe",
-        "url": "/jermain-defoe/profil/spieler/3875",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "291422",
-        "name": "Lys Mousset",
-        "url": "/lys-mousset/profil/spieler/291422",
-        "team": {
-            "id": "989",
-            "name": "AFC Bournemouth"
-        }
-    },
-    {
-        "id": "73396",
-        "name": "David Ospina",
-        "url": "/david-ospina/profil/spieler/73396",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "5658",
-        "name": "Petr Cech",
-        "url": "/petr-cech/profil/spieler/5658",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "220491",
-        "name": "Matt Macey",
-        "url": "/matt-macey/profil/spieler/220491",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "88590",
-        "name": "Shkodran Mustafi",
-        "url": "/shkodran-mustafi/profil/spieler/88590",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "76277",
-        "name": "Laurent Koscielny",
-        "url": "/laurent-koscielny/profil/spieler/76277",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "253341",
-        "name": "Rob Holding",
-        "url": "/rob-holding/profil/spieler/253341",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "6710",
-        "name": "Per Mertesacker",
-        "url": "/per-mertesacker/profil/spieler/6710",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "94005",
-        "name": "Sead Kolasinac",
-        "url": "/sead-kolasinac/profil/spieler/94005",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "43003",
-        "name": "Nacho Monreal",
-        "url": "/nacho-monreal/profil/spieler/43003",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "191217",
-        "name": "Héctor Bellerín",
-        "url": "/hector-bellerin/profil/spieler/191217",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "215118",
-        "name": "Calum Chambers",
-        "url": "/calum-chambers/profil/spieler/215118",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "27306",
-        "name": "Mathieu Debuchy",
-        "url": "/mathieu-debuchy/profil/spieler/27306",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "111455",
-        "name": "Granit Xhaka",
-        "url": "/granit-xhaka/profil/spieler/111455",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "74869",
-        "name": "Francis Coquelin",
-        "url": "/francis-coquelin/profil/spieler/74869",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "160438",
-        "name": "Mohamed Elneny",
-        "url": "/mohamed-elneny/profil/spieler/160438",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "50057",
-        "name": "Aaron Ramsey",
-        "url": "/aaron-ramsey/profil/spieler/50057",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "74223",
-        "name": "Jack Wilshere",
-        "url": "/jack-wilshere/profil/spieler/74223",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "15799",
-        "name": "Santi Cazorla",
-        "url": "/santi-cazorla/profil/spieler/15799",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "35664",
-        "name": "Mesut Özil",
-        "url": "/mesut-ozil/profil/spieler/35664",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "40433",
-        "name": "Alexis Sánchez",
-        "url": "/alexis-sanchez/profil/spieler/40433",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "242631",
-        "name": "Alex Iwobi",
-        "url": "/alex-iwobi/profil/spieler/242631",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "33713",
-        "name": "Theo Walcott",
-        "url": "/theo-walcott/profil/spieler/33713",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "93720",
-        "name": "Alexandre Lacazette",
-        "url": "/alexandre-lacazette/profil/spieler/93720",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "82442",
-        "name": "Olivier Giroud",
-        "url": "/olivier-giroud/profil/spieler/82442",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "67063",
-        "name": "Danny Welbeck",
-        "url": "/danny-welbeck/profil/spieler/67063",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "197642",
-        "name": "Chuba Akpom",
-        "url": "/chuba-akpom/profil/spieler/197642",
-        "team": {
-            "id": "11",
-            "name": "Arsenal FC"
-        }
-    },
-    {
-        "id": "59377",
-        "name": "David de Gea",
-        "url": "/david-de-gea/profil/spieler/59377",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "30690",
-        "name": "Sergio Romero",
-        "url": "/sergio-romero/profil/spieler/30690",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "192611",
-        "name": "Joel Pereira",
-        "url": "/joel-pereira/profil/spieler/192611",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "286384",
-        "name": "Eric Bailly",
-        "url": "/eric-bailly/profil/spieler/286384",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "184573",
-        "name": "Victor Lindelöf",
-        "url": "/victor-lindelof/profil/spieler/184573",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "117996",
-        "name": "Phil Jones",
-        "url": "/phil-jones/profil/spieler/117996",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "93176",
-        "name": "Marcos Rojo",
-        "url": "/marcos-rojo/profil/spieler/93176",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "103427",
-        "name": "Chris Smalling",
-        "url": "/chris-smalling/profil/spieler/103427",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "12282",
-        "name": "Daley Blind",
-        "url": "/daley-blind/profil/spieler/12282",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "183288",
-        "name": "Luke Shaw",
-        "url": "/luke-shaw/profil/spieler/183288",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "54906",
-        "name": "Matteo Darmian",
-        "url": "/matteo-darmian/profil/spieler/54906",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "33544",
-        "name": "Antonio Valencia",
-        "url": "/antonio-valencia/profil/spieler/33544",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "74683",
-        "name": "Nemanja Matic",
-        "url": "/nemanja-matic/profil/spieler/74683",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "3878",
-        "name": "Michael Carrick",
-        "url": "/michael-carrick/profil/spieler/3878",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "122153",
-        "name": "Paul Pogba",
-        "url": "/paul-pogba/profil/spieler/122153",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "99343",
-        "name": "Ander Herrera",
-        "url": "/ander-herrera/profil/spieler/99343",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "39679",
-        "name": "Marouane Fellaini",
-        "url": "/marouane-fellaini/profil/spieler/39679",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "14086",
-        "name": "Ashley Young",
-        "url": "/ashley-young/profil/spieler/14086",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "55735",
-        "name": "Henrikh Mkhitaryan",
-        "url": "/henrikh-mkhitaryan/profil/spieler/55735",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "44068",
-        "name": "Juan Mata",
-        "url": "/juan-mata/profil/spieler/44068",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "182877",
-        "name": "Anthony Martial",
-        "url": "/anthony-martial/profil/spieler/182877",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "141660",
-        "name": "Jesse Lingard",
-        "url": "/jesse-lingard/profil/spieler/141660",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "96341",
-        "name": "Romelu Lukaku",
-        "url": "/romelu-lukaku/profil/spieler/96341",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "258923",
-        "name": "Marcus Rashford",
-        "url": "/marcus-rashford/profil/spieler/258923",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "3455",
-        "name": "Zlatan Ibrahimovic",
-        "url": "/zlatan-ibrahimovic/profil/spieler/3455",
-        "team": {
-            "id": "985",
-            "name": "Manchester United"
-        }
-    },
-    {
-        "id": "17965",
-        "name": "Hugo Lloris",
-        "url": "/hugo-lloris/profil/spieler/17965",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "26276",
-        "name": "Michel Vorm",
-        "url": "/michel-vorm/profil/spieler/26276",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "195488",
-        "name": "Paulo Gazzaniga",
-        "url": "/paulo-gazzaniga/profil/spieler/195488",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "42710",
-        "name": "Toby Alderweireld",
-        "url": "/toby-alderweireld/profil/spieler/42710",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "43250",
-        "name": "Jan Vertonghen",
-        "url": "/jan-vertonghen/profil/spieler/43250",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "341429",
-        "name": "Davinson Sánchez",
-        "url": "/davinson-sanchez/profil/spieler/341429",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "480763",
-        "name": "Juan Foyth",
-        "url": "/juan-foyth/profil/spieler/480763",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "50174",
-        "name": "Danny Rose",
-        "url": "/danny-rose/profil/spieler/50174",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "192765",
-        "name": "Ben Davies",
-        "url": "/ben-davies/profil/spieler/192765",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "127032",
-        "name": "Serge Aurier",
-        "url": "/serge-aurier/profil/spieler/127032",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "95810",
-        "name": "Kieran Trippier",
-        "url": "/kieran-trippier/profil/spieler/95810",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "341051",
-        "name": "Kyle Walker-Peters",
-        "url": "/kyle-walker-peters/profil/spieler/341051",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "175722",
-        "name": "Eric Dier",
-        "url": "/eric-dier/profil/spieler/175722",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "77760",
-        "name": "Victor Wanyama",
-        "url": "/victor-wanyama/profil/spieler/77760",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "46001",
-        "name": "Moussa Sissoko",
-        "url": "/moussa-sissoko/profil/spieler/46001",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "19368",
-        "name": "Mousa Dembélé",
-        "url": "/mousa-dembele/profil/spieler/19368",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "249126",
-        "name": "Harry Winks",
-        "url": "/harry-winks/profil/spieler/249126",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "207929",
-        "name": "Dele Alli",
-        "url": "/dele-alli/profil/spieler/207929",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "69633",
-        "name": "Christian Eriksen",
-        "url": "/christian-eriksen/profil/spieler/69633",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "91845",
-        "name": "Heung-Min Son",
-        "url": "/heung-min-son/profil/spieler/91845",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "215679",
-        "name": "Georges-Kevin N'Koudou",
-        "url": "/georges-kevin-nkoudou/profil/spieler/215679",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "111630",
-        "name": "Érik Lamela",
-        "url": "/erik-lamela/profil/spieler/111630",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "132098",
-        "name": "Harry Kane",
-        "url": "/harry-kane/profil/spieler/132098",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "35564",
-        "name": "Fernando Llorente",
-        "url": "/fernando-llorente/profil/spieler/35564",
-        "team": {
-            "id": "148",
-            "name": "Tottenham Hotspur"
-        }
-    },
-    {
-        "id": "128899",
-        "name": "Jack Butland",
-        "url": "/jack-butland/profil/spieler/128899",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "13460",
-        "name": "Lee Grant",
-        "url": "/lee-grant/profil/spieler/13460",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "138335",
-        "name": "Jakob Haugaard",
-        "url": "/jakob-haugaard/profil/spieler/138335",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "157509",
-        "name": "Kurt Zouma",
-        "url": "/kurt-zouma/profil/spieler/157509",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "122675",
-        "name": "Kevin Wimmer",
-        "url": "/kevin-wimmer/profil/spieler/122675",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "112052",
-        "name": "Bruno Martins Indi",
-        "url": "/bruno-martins-indi/profil/spieler/112052",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "45861",
-        "name": "Ryan Shawcross",
-        "url": "/ryan-shawcross/profil/spieler/45861",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "31642",
-        "name": "Geoff Cameron",
-        "url": "/geoff-cameron/profil/spieler/31642",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "43763",
-        "name": "Erik Pieters",
-        "url": "/erik-pieters/profil/spieler/43763",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "419929",
-        "name": "Josh Tymon",
-        "url": "/josh-tymon/profil/spieler/419929",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "3881",
-        "name": "Glen Johnson",
-        "url": "/glen-johnson/profil/spieler/3881",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "51452",
-        "name": "Joe Allen",
-        "url": "/joe-allen/profil/spieler/51452",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "28990",
-        "name": "Charlie Adam",
-        "url": "/charlie-adam/profil/spieler/28990",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "3547",
-        "name": "Darren Fletcher",
-        "url": "/darren-fletcher/profil/spieler/3547",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "15760",
-        "name": "Ibrahim Afellay",
-        "url": "/ibrahim-afellay/profil/spieler/15760",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "34838",
-        "name": "Stephen Ireland",
-        "url": "/stephen-ireland/profil/spieler/34838",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "134936",
-        "name": "Jesé",
-        "url": "/jese/profil/spieler/134936",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "45660",
-        "name": "Eric Maxim Choupo-Moting",
-        "url": "/eric-maxim-choupo-moting/profil/spieler/45660",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "312017",
-        "name": "Ramadan Sobhi",
-        "url": "/ramadan-sobhi/profil/spieler/312017",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "86792",
-        "name": "Xherdan Shaqiri",
-        "url": "/xherdan-shaqiri/profil/spieler/86792",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "128897",
-        "name": "Saido Berahino",
-        "url": "/saido-berahino/profil/spieler/128897",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "62049",
-        "name": "Mame Diouf",
-        "url": "/mame-diouf/profil/spieler/62049",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "4072",
-        "name": "Peter Crouch",
-        "url": "/peter-crouch/profil/spieler/4072",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "286005",
-        "name": "Julien Ngoy",
-        "url": "/julien-ngoy/profil/spieler/286005",
-        "team": {
-            "id": "512",
-            "name": "Stoke City"
-        }
-    },
-    {
-        "id": "238223",
-        "name": "Ederson",
-        "url": "/ederson/profil/spieler/238223",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "40423",
-        "name": "Claudio Bravo",
-        "url": "/claudio-bravo/profil/spieler/40423",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "186590",
-        "name": "John Stones",
-        "url": "/john-stones/profil/spieler/186590",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "54781",
-        "name": "Nicolás Otamendi",
-        "url": "/nicolas-otamendi/profil/spieler/54781",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "9594",
-        "name": "Vincent Kompany",
-        "url": "/vincent-kompany/profil/spieler/9594",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "90681",
-        "name": "Eliaquim Mangala",
-        "url": "/eliaquim-mangala/profil/spieler/90681",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "157495",
-        "name": "Benjamin Mendy",
-        "url": "/benjamin-mendy/profil/spieler/157495",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "95424",
-        "name": "Kyle Walker",
-        "url": "/kyle-walker/profil/spieler/95424",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "145707",
-        "name": "Danilo",
-        "url": "/danilo/profil/spieler/145707",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "26267",
-        "name": "Fernandinho",
-        "url": "/fernandinho/profil/spieler/26267",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "53622",
-        "name": "Ilkay Gündogan",
-        "url": "/ilkay-gundogan/profil/spieler/53622",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "50362",
-        "name": "Fabian Delph",
-        "url": "/fabian-delph/profil/spieler/50362",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "13091",
-        "name": "Yaya Touré",
-        "url": "/yaya-toure/profil/spieler/13091",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "88755",
-        "name": "Kevin De Bruyne",
-        "url": "/kevin-de-bruyne/profil/spieler/88755",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "35518",
-        "name": "David Silva",
-        "url": "/david-silva/profil/spieler/35518",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "203853",
-        "name": "Oleksandr Zinchenko",
-        "url": "/oleksandr-zinchenko/profil/spieler/203853",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "192565",
-        "name": "Leroy Sané",
-        "url": "/leroy-sane/profil/spieler/192565",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "134425",
-        "name": "Raheem Sterling",
-        "url": "/raheem-sterling/profil/spieler/134425",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "241641",
-        "name": "Bernardo Silva",
-        "url": "/bernardo-silva/profil/spieler/241641",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "26399",
-        "name": "Sergio Agüero",
-        "url": "/sergio-aguero/profil/spieler/26399",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "363205",
-        "name": "Gabriel Jesus",
-        "url": "/gabriel-jesus/profil/spieler/363205",
-        "team": {
-            "id": "281",
-            "name": "Manchester City"
-        }
-    },
-    {
-        "id": "16911",
-        "name": "Kasper Schmeichel",
-        "url": "/kasper-schmeichel/profil/spieler/16911",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "2857",
-        "name": "Eldin Jakupovic",
-        "url": "/eldin-jakupovic/profil/spieler/2857",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "67283",
-        "name": "Ben Hamer",
-        "url": "/ben-hamer/profil/spieler/67283",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "59032",
-        "name": "Aleksandar Dragovic",
-        "url": "/aleksandar-dragovic/profil/spieler/59032",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "177907",
-        "name": "Harry Maguire",
-        "url": "/harry-maguire/profil/spieler/177907",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "2998",
-        "name": "Robert Huth",
-        "url": "/robert-huth/profil/spieler/2998",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "10003",
-        "name": "Wes Morgan",
-        "url": "/wes-morgan/profil/spieler/10003",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "50477",
-        "name": "Yohan Benalouane",
-        "url": "/yohan-benalouane/profil/spieler/50477",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "6636",
-        "name": "Christian Fuchs",
-        "url": "/christian-fuchs/profil/spieler/6636",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "316125",
-        "name": "Ben Chilwell",
-        "url": "/ben-chilwell/profil/spieler/316125",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "37442",
-        "name": "Danny Simpson",
-        "url": "/danny-simpson/profil/spieler/37442",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "274839",
-        "name": "Wilfred Ndidi",
-        "url": "/wilfred-ndidi/profil/spieler/274839",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "65467",
-        "name": "Vicente Iborra",
-        "url": "/vicente-iborra/profil/spieler/65467",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "214056",
-        "name": "Daniel Amartey",
-        "url": "/daniel-amartey/profil/spieler/214056",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "56810",
-        "name": "Adrien Silva",
-        "url": "/adrien-silva/profil/spieler/56810",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "56872",
-        "name": "Andy King",
-        "url": "/andy-king/profil/spieler/56872",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "73522",
-        "name": "Matty James",
-        "url": "/matty-james/profil/spieler/73522",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "61560",
-        "name": "Marc Albrighton",
-        "url": "/marc-albrighton/profil/spieler/61560",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "292417",
-        "name": "Demarai Gray",
-        "url": "/demarai-gray/profil/spieler/292417",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "171424",
-        "name": "Riyad Mahrez",
-        "url": "/riyad-mahrez/profil/spieler/171424",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "174915",
-        "name": "Islam Slimani",
-        "url": "/islam-slimani/profil/spieler/174915",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "168337",
-        "name": "Ahmed Musa",
-        "url": "/ahmed-musa/profil/spieler/168337",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "295330",
-        "name": "Kelechi Iheanacho",
-        "url": "/kelechi-iheanacho/profil/spieler/295330",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "197838",
-        "name": "Jamie Vardy",
-        "url": "/jamie-vardy/profil/spieler/197838",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "79642",
-        "name": "Shinji Okazaki",
-        "url": "/shinji-okazaki/profil/spieler/79642",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "54890",
-        "name": "Leonardo Ulloa",
-        "url": "/leonardo-ulloa/profil/spieler/54890",
-        "team": {
-            "id": "1003",
-            "name": "Leicester City"
-        }
-    },
-    {
-        "id": "48870",
-        "name": "Jonas Lössl",
-        "url": "/jonas-lossl/profil/spieler/48870",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "285551",
-        "name": "Joel Coleman",
-        "url": "/joel-coleman/profil/spieler/285551",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "11680",
-        "name": "Robert Green",
-        "url": "/robert-green/profil/spieler/11680",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "52059",
-        "name": "Zanka",
-        "url": "/zanka/profil/spieler/52059",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "57842",
-        "name": "Christopher Schindler",
-        "url": "/christopher-schindler/profil/spieler/57842",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "102382",
-        "name": "Michael Hefele",
-        "url": "/michael-hefele/profil/spieler/102382",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "27659",
-        "name": "Martin Cranie",
-        "url": "/martin-cranie/profil/spieler/27659",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "245034",
-        "name": "Jon Gorenc-Stankovic",
-        "url": "/jon-gorenc-stankovic/profil/spieler/245034",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "101682",
-        "name": "Scott Malone",
-        "url": "/scott-malone/profil/spieler/101682",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "55125",
-        "name": "Chris Löwe",
-        "url": "/chris-lowe/profil/spieler/55125",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "238809",
-        "name": "Florent Hadergjonaj",
-        "url": "/florent-hadergjonaj/profil/spieler/238809",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "121398",
-        "name": "Tom Smith",
-        "url": "/tom-smith/profil/spieler/121398",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "38383",
-        "name": "Danny Williams",
-        "url": "/danny-williams/profil/spieler/38383",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "123951",
-        "name": "Aaron Mooy",
-        "url": "/aaron-mooy/profil/spieler/123951",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "61573",
-        "name": "Jonathan Hogg",
-        "url": "/jonathan-hogg/profil/spieler/61573",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "320411",
-        "name": "Philip Billing",
-        "url": "/philip-billing/profil/spieler/320411",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "13683",
-        "name": "Dean Whitehead",
-        "url": "/dean-whitehead/profil/spieler/13683",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "258216",
-        "name": "Kasey Palmer",
-        "url": "/kasey-palmer/profil/spieler/258216",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "340394",
-        "name": "Abdelhamid Sabiri",
-        "url": "/abdelhamid-sabiri/profil/spieler/340394",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "157368",
-        "name": "Tom Ince",
-        "url": "/tom-ince/profil/spieler/157368",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "77001",
-        "name": "Rajiv van La Parra",
-        "url": "/rajiv-van-la-parra/profil/spieler/77001",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "287167",
-        "name": "Joe Lolley",
-        "url": "/joe-lolley/profil/spieler/287167",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "238639",
-        "name": "Steve Mounié",
-        "url": "/steve-mounie/profil/spieler/238639",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "49501",
-        "name": "Elias Kachunga",
-        "url": "/elias-kachunga/profil/spieler/49501",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "90583",
-        "name": "Laurent Depoitre",
-        "url": "/laurent-depoitre/profil/spieler/90583",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "123397",
-        "name": "Collin Quaner",
-        "url": "/collin-quaner/profil/spieler/123397",
-        "team": {
-            "id": "1110",
-            "name": "Huddersfield Town"
-        }
-    },
-    {
-        "id": "45494",
-        "name": "Wayne Hennessey",
-        "url": "/wayne-hennessey/profil/spieler/45494",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "12814",
-        "name": "Julián Speroni",
-        "url": "/julian-speroni/profil/spieler/12814",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "47713",
-        "name": "Mamadou Sakho",
-        "url": "/mamadou-sakho/profil/spieler/47713",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "61592",
-        "name": "James Tomkins",
-        "url": "/james-tomkins/profil/spieler/61592",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "62688",
-        "name": "Scott Dann",
-        "url": "/scott-dann/profil/spieler/62688",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "315131",
-        "name": "Timothy Fosu-Mensah",
-        "url": "/timothy-fosu-mensah/profil/spieler/315131",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "241481",
-        "name": "Jairo Riedewald",
-        "url": "/jairo-riedewald/profil/spieler/241481",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "36861",
-        "name": "Damien Delaney",
-        "url": "/damien-delaney/profil/spieler/36861",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "52119",
-        "name": "Patrick van Aanholt",
-        "url": "/patrick-van-aanholt/profil/spieler/52119",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "157506",
-        "name": "Jeffrey Schlupp",
-        "url": "/jeffrey-schlupp/profil/spieler/157506",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "125868",
-        "name": "Pape Souaré",
-        "url": "/pape-souare/profil/spieler/125868",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "92572",
-        "name": "Joel Ward",
-        "url": "/joel-ward/profil/spieler/92572",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "78959",
-        "name": "Martin Kelly",
-        "url": "/martin-kelly/profil/spieler/78959",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "74300",
-        "name": "Luka Milivojevic",
-        "url": "/luka-milivojevic/profil/spieler/74300",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "29434",
-        "name": "Yohan Cabaye",
-        "url": "/yohan-cabaye/profil/spieler/29434",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "41416",
-        "name": "James McArthur",
-        "url": "/james-mcarthur/profil/spieler/41416",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "202886",
-        "name": "Ruben Loftus-Cheek",
-        "url": "/ruben-loftus-cheek/profil/spieler/202886",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "57207",
-        "name": "Jordon Mutch",
-        "url": "/jordon-mutch/profil/spieler/57207",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "47995",
-        "name": "Jason Puncheon",
-        "url": "/jason-puncheon/profil/spieler/47995",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "46791",
-        "name": "Bakary Sako",
-        "url": "/bakary-sako/profil/spieler/46791",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "244130",
-        "name": "Sullay Kaikai",
-        "url": "/sullay-kaikai/profil/spieler/244130",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "145988",
-        "name": "Wilfried Zaha",
-        "url": "/wilfried-zaha/profil/spieler/145988",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "61842",
-        "name": "Andros Townsend",
-        "url": "/andros-townsend/profil/spieler/61842",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "81801",
-        "name": "Chung-Yong Lee",
-        "url": "/chung-yong-lee/profil/spieler/81801",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "50201",
-        "name": "Christian Benteke",
-        "url": "/christian-benteke/profil/spieler/50201",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "95435",
-        "name": "Connor Wickham",
-        "url": "/connor-wickham/profil/spieler/95435",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "233998",
-        "name": "Freddie Ladapo",
-        "url": "/freddie-ladapo/profil/spieler/233998",
-        "team": {
-            "id": "873",
-            "name": "Crystal Palace"
-        }
-    },
-    {
-        "id": "16408",
-        "name": "Orestis Karnezis",
-        "url": "/orestis-karnezis/profil/spieler/16408",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "19059",
-        "name": "Heurelho Gomes",
-        "url": "/heurelho-gomes/profil/spieler/19059",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "120186",
-        "name": "Daniel Bachmann",
-        "url": "/daniel-bachmann/profil/spieler/120186",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "81512",
-        "name": "Christian Kabasele",
-        "url": "/christian-kabasele/profil/spieler/81512",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "37981",
-        "name": "Sebastian Prödl",
-        "url": "/sebastian-prodl/profil/spieler/37981",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "59606",
-        "name": "Craig Cathcart",
-        "url": "/craig-cathcart/profil/spieler/59606",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "76799",
-        "name": "Miguel Britos",
-        "url": "/miguel-britos/profil/spieler/76799",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "27114",
-        "name": "Younès Kaboul",
-        "url": "/younes-kaboul/profil/spieler/27114",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "129893",
-        "name": "Molla Wague",
-        "url": "/molla-wague/profil/spieler/129893",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "38145",
-        "name": "Adrian Mariappa",
-        "url": "/adrian-mariappa/profil/spieler/38145",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "183161",
-        "name": "Tommie Hoban",
-        "url": "/tommie-hoban/profil/spieler/183161",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "92899",
-        "name": "Marvin Zeegelaar",
-        "url": "/marvin-zeegelaar/profil/spieler/92899",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "41112",
-        "name": "José Holebas",
-        "url": "/jose-holebas/profil/spieler/41112",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "60744",
-        "name": "Daryl Janmaat",
-        "url": "/daryl-janmaat/profil/spieler/60744",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "76467",
-        "name": "Kiko Femenía",
-        "url": "/kiko-femenia/profil/spieler/76467",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "93690",
-        "name": "Brice Dja Djedjé",
-        "url": "/brice-dja-djedje/profil/spieler/93690",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "63494",
-        "name": "Étienne Capoue",
-        "url": "/etienne-capoue/profil/spieler/63494",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "128900",
-        "name": "Nathaniel Chalobah",
-        "url": "/nathaniel-chalobah/profil/spieler/128900",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "73484",
-        "name": "Tom Cleverley",
-        "url": "/tom-cleverley/profil/spieler/73484",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "207014",
-        "name": "Will Hughes",
-        "url": "/will-hughes/profil/spieler/207014",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "127187",
-        "name": "Abdoulaye Doucouré",
-        "url": "/abdoulaye-doucoure/profil/spieler/127187",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "14081",
-        "name": "Ben Watson",
-        "url": "/ben-watson/profil/spieler/14081",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "112302",
-        "name": "Roberto Pereyra",
-        "url": "/roberto-pereyra/profil/spieler/112302",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "378710",
-        "name": "Richarlison",
-        "url": "/richarlison/profil/spieler/378710",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "295331",
-        "name": "Isaac Success",
-        "url": "/isaac-success/profil/spieler/295331",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "135057",
-        "name": "André Carrillo",
-        "url": "/andre-carrillo/profil/spieler/135057",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "120565",
-        "name": "Andre Gray",
-        "url": "/andre-gray/profil/spieler/120565",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "65477",
-        "name": "Troy Deeney",
-        "url": "/troy-deeney/profil/spieler/65477",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "35249",
-        "name": "Stefano Okaka",
-        "url": "/stefano-okaka/profil/spieler/35249",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
-        }
-    },
-    {
-        "id": "236513",
-        "name": "Jerome Sinclair",
-        "url": "/jerome-sinclair/profil/spieler/236513",
-        "team": {
-            "id": "1010",
-            "name": "Watford FC"
+            "id": "762",
+            "name": "Newcastle United"
         }
     },
     {
@@ -2763,1011 +504,660 @@
         }
     },
     {
-        "id": "130164",
-        "name": "Jordan Pickford",
-        "url": "/jordan-pickford/profil/spieler/130164",
+        "id": "45494",
+        "name": "Wayne Hennessey",
+        "url": "/wayne-hennessey/profil/spieler/45494",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "101118",
-        "name": "Joel Robles",
-        "url": "/joel-robles/profil/spieler/101118",
+        "id": "12814",
+        "name": "Julián Speroni",
+        "url": "/julian-speroni/profil/spieler/12814",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "4311",
-        "name": "Maarten Stekelenburg",
-        "url": "/maarten-stekelenburg/profil/spieler/4311",
+        "id": "47713",
+        "name": "Mamadou Sakho",
+        "url": "/mamadou-sakho/profil/spieler/47713",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "118534",
-        "name": "Michael Keane",
-        "url": "/michael-keane/profil/spieler/118534",
+        "id": "61592",
+        "name": "James Tomkins",
+        "url": "/james-tomkins/profil/spieler/61592",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "11111",
-        "name": "Ramiro Funes Mori",
-        "url": "/ramiro-funes-mori/profil/spieler/11111",
+        "id": "62688",
+        "name": "Scott Dann",
+        "url": "/scott-dann/profil/spieler/62688",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "67355",
-        "name": "Ashley Williams",
-        "url": "/ashley-williams/profil/spieler/67355",
+        "id": "315131",
+        "name": "Timothy Fosu-Mensah",
+        "url": "/timothy-fosu-mensah/profil/spieler/315131",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "348623",
-        "name": "Mason Holgate",
-        "url": "/mason-holgate/profil/spieler/348623",
+        "id": "241481",
+        "name": "Jairo Riedewald",
+        "url": "/jairo-riedewald/profil/spieler/241481",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "13520",
-        "name": "Phil Jagielka",
-        "url": "/phil-jagielka/profil/spieler/13520",
+        "id": "36861",
+        "name": "Damien Delaney",
+        "url": "/damien-delaney/profil/spieler/36861",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "13507",
-        "name": "Leighton Baines",
-        "url": "/leighton-baines/profil/spieler/13507",
+        "id": "52119",
+        "name": "Patrick van Aanholt",
+        "url": "/patrick-van-aanholt/profil/spieler/52119",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "110860",
-        "name": "Luke Garbutt",
-        "url": "/luke-garbutt/profil/spieler/110860",
+        "id": "157506",
+        "name": "Jeffrey Schlupp",
+        "url": "/jeffrey-schlupp/profil/spieler/157506",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "68390",
-        "name": "Seamus Coleman",
-        "url": "/seamus-coleman/profil/spieler/68390",
+        "id": "125868",
+        "name": "Pape Souaré",
+        "url": "/pape-souare/profil/spieler/125868",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "91251",
-        "name": "Cuco Martina",
-        "url": "/cuco-martina/profil/spieler/91251",
+        "id": "92572",
+        "name": "Joel Ward",
+        "url": "/joel-ward/profil/spieler/92572",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "258883",
-        "name": "Jonjoe Kenny",
-        "url": "/jonjoe-kenny/profil/spieler/258883",
+        "id": "78959",
+        "name": "Martin Kelly",
+        "url": "/martin-kelly/profil/spieler/78959",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "56818",
-        "name": "Morgan Schneiderlin",
-        "url": "/morgan-schneiderlin/profil/spieler/56818",
+        "id": "74300",
+        "name": "Luka Milivojevic",
+        "url": "/luka-milivojevic/profil/spieler/74300",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "93905",
-        "name": "Muhamed Besic",
-        "url": "/muhamed-besic/profil/spieler/93905",
+        "id": "29434",
+        "name": "Yohan Cabaye",
+        "url": "/yohan-cabaye/profil/spieler/29434",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "126665",
-        "name": "Idrissa Gueye",
-        "url": "/idrissa-gueye/profil/spieler/126665",
+        "id": "41416",
+        "name": "James McArthur",
+        "url": "/james-mcarthur/profil/spieler/41416",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "45333",
-        "name": "James McCarthy",
-        "url": "/james-mccarthy/profil/spieler/45333",
+        "id": "202886",
+        "name": "Ruben Loftus-Cheek",
+        "url": "/ruben-loftus-cheek/profil/spieler/202886",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "314210",
-        "name": "Tom Davies",
-        "url": "/tom-davies/profil/spieler/314210",
+        "id": "57207",
+        "name": "Jordon Mutch",
+        "url": "/jordon-mutch/profil/spieler/57207",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "90466",
-        "name": "Gylfi Sigurdsson",
-        "url": "/gylfi-sigurdsson/profil/spieler/90466",
+        "id": "47995",
+        "name": "Jason Puncheon",
+        "url": "/jason-puncheon/profil/spieler/47995",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "131978",
-        "name": "Ross Barkley",
-        "url": "/ross-barkley/profil/spieler/131978",
+        "id": "46791",
+        "name": "Bakary Sako",
+        "url": "/bakary-sako/profil/spieler/46791",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "182932",
-        "name": "Davy Klaassen",
-        "url": "/davy-klaassen/profil/spieler/182932",
+        "id": "244130",
+        "name": "Sullay Kaikai",
+        "url": "/sullay-kaikai/profil/spieler/244130",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "293200",
-        "name": "Nikola Vlasic",
-        "url": "/nikola-vlasic/profil/spieler/293200",
+        "id": "145988",
+        "name": "Wilfried Zaha",
+        "url": "/wilfried-zaha/profil/spieler/145988",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "75471",
-        "name": "Yannick Bolasie",
-        "url": "/yannick-bolasie/profil/spieler/75471",
+        "id": "61842",
+        "name": "Andros Townsend",
+        "url": "/andros-townsend/profil/spieler/61842",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "406040",
-        "name": "Ademola Lookman",
-        "url": "/ademola-lookman/profil/spieler/406040",
+        "id": "81801",
+        "name": "Chung-Yong Lee",
+        "url": "/chung-yong-lee/profil/spieler/81801",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "33639",
-        "name": "Kevin Mirallas",
-        "url": "/kevin-mirallas/profil/spieler/33639",
+        "id": "50201",
+        "name": "Christian Benteke",
+        "url": "/christian-benteke/profil/spieler/50201",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "14221",
-        "name": "Aaron Lennon",
-        "url": "/aaron-lennon/profil/spieler/14221",
+        "id": "95435",
+        "name": "Connor Wickham",
+        "url": "/connor-wickham/profil/spieler/95435",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "3332",
-        "name": "Wayne Rooney",
-        "url": "/wayne-rooney/profil/spieler/3332",
+        "id": "233998",
+        "name": "Freddie Ladapo",
+        "url": "/freddie-ladapo/profil/spieler/233998",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "873",
+            "name": "Crystal Palace"
         }
     },
     {
-        "id": "306024",
-        "name": "Dominic Calvert-Lewin",
-        "url": "/dominic-calvert-lewin/profil/spieler/306024",
+        "id": "17965",
+        "name": "Hugo Lloris",
+        "url": "/hugo-lloris/profil/spieler/17965",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "184381",
-        "name": "Shani Tarashaj",
-        "url": "/shani-tarashaj/profil/spieler/184381",
+        "id": "26276",
+        "name": "Michel Vorm",
+        "url": "/michel-vorm/profil/spieler/26276",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "199369",
-        "name": "Sandro Ramírez",
-        "url": "/sandro-ramirez/profil/spieler/199369",
+        "id": "195488",
+        "name": "Paulo Gazzaniga",
+        "url": "/paulo-gazzaniga/profil/spieler/195488",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "209781",
-        "name": "Oumar Niasse",
-        "url": "/oumar-niasse/profil/spieler/209781",
+        "id": "42710",
+        "name": "Toby Alderweireld",
+        "url": "/toby-alderweireld/profil/spieler/42710",
         "team": {
-            "id": "29",
-            "name": "Everton FC"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "29692",
-        "name": "Lukasz Fabianski",
-        "url": "/lukasz-fabianski/profil/spieler/29692",
+        "id": "43250",
+        "name": "Jan Vertonghen",
+        "url": "/jan-vertonghen/profil/spieler/43250",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "56631",
-        "name": "Erwin Mulder",
-        "url": "/erwin-mulder/profil/spieler/56631",
+        "id": "341429",
+        "name": "Davinson Sánchez",
+        "url": "/davinson-sanchez/profil/spieler/341429",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "75890",
-        "name": "Kristoffer Nordfeldt",
-        "url": "/kristoffer-nordfeldt/profil/spieler/75890",
+        "id": "480763",
+        "name": "Juan Foyth",
+        "url": "/juan-foyth/profil/spieler/480763",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "85475",
-        "name": "Federico Fernández",
-        "url": "/federico-fernandez/profil/spieler/85475",
+        "id": "50174",
+        "name": "Danny Rose",
+        "url": "/danny-rose/profil/spieler/50174",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "287431",
-        "name": "Alfie Mawson",
-        "url": "/alfie-mawson/profil/spieler/287431",
+        "id": "192765",
+        "name": "Ben Davies",
+        "url": "/ben-davies/profil/spieler/192765",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "67421",
-        "name": "Kyle Bartley",
-        "url": "/kyle-bartley/profil/spieler/67421",
+        "id": "127032",
+        "name": "Serge Aurier",
+        "url": "/serge-aurier/profil/spieler/127032",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "187105",
-        "name": "Mike van der Hoorn",
-        "url": "/mike-van-der-hoorn/profil/spieler/187105",
+        "id": "95810",
+        "name": "Kieran Trippier",
+        "url": "/kieran-trippier/profil/spieler/95810",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "38073",
-        "name": "Martin Olsson",
-        "url": "/martin-olsson/profil/spieler/38073",
+        "id": "341051",
+        "name": "Kyle Walker-Peters",
+        "url": "/kyle-walker-peters/profil/spieler/341051",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "66219",
-        "name": "Kyle Naughton",
-        "url": "/kyle-naughton/profil/spieler/66219",
+        "id": "175722",
+        "name": "Eric Dier",
+        "url": "/eric-dier/profil/spieler/175722",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "66550",
-        "name": "Ángel Rangel",
-        "url": "/angel-rangel/profil/spieler/66550",
+        "id": "77760",
+        "name": "Victor Wanyama",
+        "url": "/victor-wanyama/profil/spieler/77760",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "81796",
-        "name": "Sung-Yong Ki",
-        "url": "/sung-yong-ki/profil/spieler/81796",
+        "id": "46001",
+        "name": "Moussa Sissoko",
+        "url": "/moussa-sissoko/profil/spieler/46001",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "258027",
-        "name": "Renato Sanches",
-        "url": "/renato-sanches/profil/spieler/258027",
+        "id": "19368",
+        "name": "Mousa Dembélé",
+        "url": "/mousa-dembele/profil/spieler/19368",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "202984",
-        "name": "Roque Mesa",
-        "url": "/roque-mesa/profil/spieler/202984",
+        "id": "249126",
+        "name": "Harry Winks",
+        "url": "/harry-winks/profil/spieler/249126",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "63342",
-        "name": "Leroy Fer",
-        "url": "/leroy-fer/profil/spieler/63342",
+        "id": "207929",
+        "name": "Dele Alli",
+        "url": "/dele-alli/profil/spieler/207929",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "121279",
-        "name": "Tom Carroll",
-        "url": "/tom-carroll/profil/spieler/121279",
+        "id": "69633",
+        "name": "Christian Eriksen",
+        "url": "/christian-eriksen/profil/spieler/69633",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "40043",
-        "name": "Leon Britton",
-        "url": "/leon-britton/profil/spieler/40043",
+        "id": "91845",
+        "name": "Heung-Min Son",
+        "url": "/heung-min-son/profil/spieler/91845",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "171260",
-        "name": "Jay Fulton",
-        "url": "/jay-fulton/profil/spieler/171260",
+        "id": "215679",
+        "name": "Georges-Kevin N'Koudou",
+        "url": "/georges-kevin-nkoudou/profil/spieler/215679",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "122223",
-        "name": "Sam Clucas",
-        "url": "/sam-clucas/profil/spieler/122223",
+        "id": "111630",
+        "name": "Érik Lamela",
+        "url": "/erik-lamela/profil/spieler/111630",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "14066",
-        "name": "Wayne Routledge",
-        "url": "/wayne-routledge/profil/spieler/14066",
+        "id": "132098",
+        "name": "Harry Kane",
+        "url": "/harry-kane/profil/spieler/132098",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "374889",
-        "name": "Kenji Gorré",
-        "url": "/kenji-gorre/profil/spieler/374889",
+        "id": "35564",
+        "name": "Fernando Llorente",
+        "url": "/fernando-llorente/profil/spieler/35564",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "148",
+            "name": "Tottenham Hotspur"
         }
     },
     {
-        "id": "72462",
-        "name": "Luciano Narsingh",
-        "url": "/luciano-narsingh/profil/spieler/72462",
+        "id": "13572",
+        "name": "Ben Foster",
+        "url": "/ben-foster/profil/spieler/13572",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "37011",
-        "name": "Nathan Dyer",
-        "url": "/nathan-dyer/profil/spieler/37011",
+        "id": "3838",
+        "name": "Boaz Myhill",
+        "url": "/boaz-myhill/profil/spieler/3838",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "81808",
-        "name": "Wilfried Bony",
-        "url": "/wilfried-bony/profil/spieler/81808",
+        "id": "42412",
+        "name": "Jonny Evans",
+        "url": "/jonny-evans/profil/spieler/42412",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "331726",
-        "name": "Tammy Abraham",
-        "url": "/tammy-abraham/profil/spieler/331726",
+        "id": "111524",
+        "name": "Ahmed Hegazy",
+        "url": "/ahmed-hegazy/profil/spieler/111524",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "108354",
-        "name": "Jordan Ayew",
-        "url": "/jordan-ayew/profil/spieler/108354",
+        "id": "40567",
+        "name": "Gareth McAuley",
+        "url": "/gareth-mcauley/profil/spieler/40567",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "298477",
-        "name": "Oliver McBurnie",
-        "url": "/oliver-mcburnie/profil/spieler/298477",
+        "id": "44792",
+        "name": "Kieran Gibbs",
+        "url": "/kieran-gibbs/profil/spieler/44792",
         "team": {
-            "id": "2288",
-            "name": "Swansea City"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "99397",
-        "name": "Karl Darlow",
-        "url": "/karl-darlow/profil/spieler/99397",
+        "id": "121477",
+        "name": "Craig Dawson",
+        "url": "/craig-dawson/profil/spieler/121477",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "39037",
-        "name": "Rob Elliot",
-        "url": "/rob-elliot/profil/spieler/39037",
+        "id": "111508",
+        "name": "Allan Nyom",
+        "url": "/allan-nyom/profil/spieler/111508",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "226049",
-        "name": "Freddie Woodman",
-        "url": "/freddie-woodman/profil/spieler/226049",
+        "id": "45184",
+        "name": "Grzegorz Krychowiak",
+        "url": "/grzegorz-krychowiak/profil/spieler/45184",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "203348",
-        "name": "Chancel Mbemba",
-        "url": "/chancel-mbemba/profil/spieler/203348",
+        "id": "61832",
+        "name": "Jake Livermore",
+        "url": "/jake-livermore/profil/spieler/61832",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "98240",
-        "name": "Ciaran Clark",
-        "url": "/ciaran-clark/profil/spieler/98240",
+        "id": "45330",
+        "name": "Claudio Yacob",
+        "url": "/claudio-yacob/profil/spieler/45330",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "183318",
-        "name": "Jamaal Lascelles",
-        "url": "/jamaal-lascelles/profil/spieler/183318",
+        "id": "3291",
+        "name": "Gareth Barry",
+        "url": "/gareth-barry/profil/spieler/3291",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "127108",
-        "name": "Florian Lejeune",
-        "url": "/florian-lejeune/profil/spieler/127108",
+        "id": "27614",
+        "name": "James Morrison",
+        "url": "/james-morrison/profil/spieler/27614",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "179471",
-        "name": "Curtis Good",
-        "url": "/curtis-good/profil/spieler/179471",
+        "id": "387331",
+        "name": "Sam Field",
+        "url": "/sam-field/profil/spieler/387331",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "170321",
-        "name": "Paul Dummett",
-        "url": "/paul-dummett/profil/spieler/170321",
+        "id": "36814",
+        "name": "Chris Brunt",
+        "url": "/chris-brunt/profil/spieler/36814",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "170929",
-        "name": "Massadio Haidara",
-        "url": "/massadio-haidara/profil/spieler/170929",
+        "id": "59631",
+        "name": "Nacer Chadli",
+        "url": "/nacer-chadli/profil/spieler/59631",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "255916",
-        "name": "DeAndre Yedlin",
-        "url": "/deandre-yedlin/profil/spieler/255916",
+        "id": "85935",
+        "name": "James McClean",
+        "url": "/james-mcclean/profil/spieler/85935",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "162029",
-        "name": "Javier Manquillo",
-        "url": "/javier-manquillo/profil/spieler/162029",
+        "id": "65976",
+        "name": "Hal Robson-Kanu",
+        "url": "/hal-robson-kanu/profil/spieler/65976",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "29055",
-        "name": "Jesús Gámez",
-        "url": "/jesus-gamez/profil/spieler/29055",
+        "id": "341317",
+        "name": "Oliver Burke",
+        "url": "/oliver-burke/profil/spieler/341317",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "338424",
-        "name": "Mikel Merino",
-        "url": "/mikel-merino/profil/spieler/338424",
+        "id": "77274",
+        "name": "Matt Phillips",
+        "url": "/matt-phillips/profil/spieler/77274",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "61644",
-        "name": "Jack Colback",
-        "url": "/jack-colback/profil/spieler/61644",
+        "id": "80197",
+        "name": "José Salomón Rondón",
+        "url": "/jose-salomon-rondon/profil/spieler/80197",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
-        "id": "206225",
-        "name": "Isaac Hayden",
-        "url": "/isaac-hayden/profil/spieler/206225",
+        "id": "53360",
+        "name": "Jay Rodríguez",
+        "url": "/jay-rodriguez/profil/spieler/53360",
         "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "71292",
-        "name": "Jonjo Shelvey",
-        "url": "/jonjo-shelvey/profil/spieler/71292",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "70950",
-        "name": "Mohamed Diamé",
-        "url": "/mohamed-diame/profil/spieler/70950",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "92469",
-        "name": "Matt Ritchie",
-        "url": "/matt-ritchie/profil/spieler/92469",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "51540",
-        "name": "Henri Saivet",
-        "url": "/henri-saivet/profil/spieler/51540",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "186997",
-        "name": "Christian Atsu",
-        "url": "/christian-atsu/profil/spieler/186997",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "258188",
-        "name": "Rolando Aarons",
-        "url": "/rolando-aarons/profil/spieler/258188",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "199527",
-        "name": "Jacob Murphy",
-        "url": "/jacob-murphy/profil/spieler/199527",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "246968",
-        "name": "Ayoze Pérez",
-        "url": "/ayoze-perez/profil/spieler/246968",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "196522",
-        "name": "Dwight Gayle",
-        "url": "/dwight-gayle/profil/spieler/196522",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "51152",
-        "name": "Aleksandar Mitrovic",
-        "url": "/aleksandar-mitrovic/profil/spieler/51152",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "81999",
-        "name": "Joselu",
-        "url": "/joselu/profil/spieler/81999",
-        "team": {
-            "id": "762",
-            "name": "Newcastle United"
-        }
-    },
-    {
-        "id": "128969",
-        "name": "Mathew Ryan",
-        "url": "/mathew-ryan/profil/spieler/128969",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "33027",
-        "name": "Tim Krul",
-        "url": "/tim-krul/profil/spieler/33027",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "12359",
-        "name": "Niki Mäenpää",
-        "url": "/niki-maenpaa/profil/spieler/12359",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "148153",
-        "name": "Lewis Dunk",
-        "url": "/lewis-dunk/profil/spieler/148153",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "119269",
-        "name": "Shane Duffy",
-        "url": "/shane-duffy/profil/spieler/119269",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "10503",
-        "name": "Uwe Hünemeier",
-        "url": "/uwe-hunemeier/profil/spieler/10503",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "163656",
-        "name": "Connor Goldson",
-        "url": "/connor-goldson/profil/spieler/163656",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "31514",
-        "name": "Markus Suttner",
-        "url": "/markus-suttner/profil/spieler/31514",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "36291",
-        "name": "Gaëtan Bong",
-        "url": "/gaetan-bong/profil/spieler/36291",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "119164",
-        "name": "Ezequiel Schelotto",
-        "url": "/ezequiel-schelotto/profil/spieler/119164",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "242078",
-        "name": "Ales Mateju",
-        "url": "/ales-mateju/profil/spieler/242078",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "15166",
-        "name": "Liam Rosenior",
-        "url": "/liam-rosenior/profil/spieler/15166",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "51528",
-        "name": "Bruno",
-        "url": "/bruno/profil/spieler/51528",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "79027",
-        "name": "Davy Pröpper",
-        "url": "/davy-propper/profil/spieler/79027",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "82873",
-        "name": "Pascal Groß",
-        "url": "/pascal-gross/profil/spieler/82873",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "49755",
-        "name": "Dale Stephens",
-        "url": "/dale-stephens/profil/spieler/49755",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "44741",
-        "name": "Biram Kayal",
-        "url": "/biram-kayal/profil/spieler/44741",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "13427",
-        "name": "Steve Sidwell",
-        "url": "/steve-sidwell/profil/spieler/13427",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "209212",
-        "name": "Solly March",
-        "url": "/solly-march/profil/spieler/209212",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "147094",
-        "name": "José Izquierdo",
-        "url": "/jose-izquierdo/profil/spieler/147094",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "51730",
-        "name": "Jamie Murphy",
-        "url": "/jamie-murphy/profil/spieler/51730",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "148734",
-        "name": "Jirí Skalák",
-        "url": "/jiri-skalak/profil/spieler/148734",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "262895",
-        "name": "Soufyan Ahannach",
-        "url": "/soufyan-ahannach/profil/spieler/262895",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "149237",
-        "name": "Anthony Knockaert",
-        "url": "/anthony-knockaert/profil/spieler/149237",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "245805",
-        "name": "Isaiah Brown",
-        "url": "/isaiah-brown/profil/spieler/245805",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "45693",
-        "name": "Glenn Murray",
-        "url": "/glenn-murray/profil/spieler/45693",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "67211",
-        "name": "Sam Baldock",
-        "url": "/sam-baldock/profil/spieler/67211",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
-        }
-    },
-    {
-        "id": "112668",
-        "name": "Tomer Hemed",
-        "url": "/tomer-hemed/profil/spieler/112668",
-        "team": {
-            "id": "1237",
-            "name": "Brighton & Hove Albion"
+            "id": "984",
+            "name": "West Bromwich Albion"
         }
     },
     {
@@ -4212,237 +1602,1353 @@
         }
     },
     {
-        "id": "108390",
-        "name": "Thibaut Courtois",
-        "url": "/thibaut-courtois/profil/spieler/108390",
+        "id": "238223",
+        "name": "Ederson",
+        "url": "/ederson/profil/spieler/238223",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "19948",
-        "name": "Willy Caballero",
-        "url": "/willy-caballero/profil/spieler/19948",
+        "id": "40423",
+        "name": "Claudio Bravo",
+        "url": "/claudio-bravo/profil/spieler/40423",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "34159",
-        "name": "Eduardo",
-        "url": "/eduardo/profil/spieler/34159",
+        "id": "186590",
+        "name": "John Stones",
+        "url": "/john-stones/profil/spieler/186590",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "60220",
-        "name": "Matej Delac",
-        "url": "/matej-delac/profil/spieler/60220",
+        "id": "54781",
+        "name": "Nicolás Otamendi",
+        "url": "/nicolas-otamendi/profil/spieler/54781",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "46741",
-        "name": "David Luiz",
-        "url": "/david-luiz/profil/spieler/46741",
+        "id": "9594",
+        "name": "Vincent Kompany",
+        "url": "/vincent-kompany/profil/spieler/9594",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "86202",
-        "name": "Antonio Rüdiger",
-        "url": "/antonio-rudiger/profil/spieler/86202",
+        "id": "90681",
+        "name": "Eliaquim Mangala",
+        "url": "/eliaquim-mangala/profil/spieler/90681",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "196948",
-        "name": "Andreas Christensen",
-        "url": "/andreas-christensen/profil/spieler/196948",
+        "id": "157495",
+        "name": "Benjamin Mendy",
+        "url": "/benjamin-mendy/profil/spieler/157495",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "27511",
-        "name": "Gary Cahill",
-        "url": "/gary-cahill/profil/spieler/27511",
+        "id": "95424",
+        "name": "Kyle Walker",
+        "url": "/kyle-walker/profil/spieler/95424",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "112515",
-        "name": "Marcos Alonso",
-        "url": "/marcos-alonso/profil/spieler/112515",
+        "id": "145707",
+        "name": "Danilo",
+        "url": "/danilo/profil/spieler/145707",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "224884",
-        "name": "Abdul Rahman Baba",
-        "url": "/abdul-rahman-baba/profil/spieler/224884",
+        "id": "26267",
+        "name": "Fernandinho",
+        "url": "/fernandinho/profil/spieler/26267",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "281404",
-        "name": "Kenedy",
-        "url": "/kenedy/profil/spieler/281404",
+        "id": "53622",
+        "name": "Ilkay Gündogan",
+        "url": "/ilkay-gundogan/profil/spieler/53622",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "57500",
-        "name": "César Azpilicueta",
-        "url": "/cesar-azpilicueta/profil/spieler/57500",
+        "id": "50362",
+        "name": "Fabian Delph",
+        "url": "/fabian-delph/profil/spieler/50362",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "173859",
-        "name": "Davide Zappacosta",
-        "url": "/davide-zappacosta/profil/spieler/173859",
+        "id": "13091",
+        "name": "Yaya Touré",
+        "url": "/yaya-toure/profil/spieler/13091",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "181779",
-        "name": "Wallace Oliveira",
-        "url": "/wallace-oliveira/profil/spieler/181779",
+        "id": "88755",
+        "name": "Kevin De Bruyne",
+        "url": "/kevin-de-bruyne/profil/spieler/88755",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "225083",
-        "name": "N'Golo Kanté",
-        "url": "/ngolo-kante/profil/spieler/225083",
+        "id": "35518",
+        "name": "David Silva",
+        "url": "/david-silva/profil/spieler/35518",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "182618",
-        "name": "Tiemoué Bakayoko",
-        "url": "/tiemoue-bakayoko/profil/spieler/182618",
+        "id": "203853",
+        "name": "Oleksandr Zinchenko",
+        "url": "/oleksandr-zinchenko/profil/spieler/203853",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "8806",
-        "name": "Cesc Fàbregas",
-        "url": "/cesc-fabregas/profil/spieler/8806",
+        "id": "192565",
+        "name": "Leroy Sané",
+        "url": "/leroy-sane/profil/spieler/192565",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "73491",
-        "name": "Danny Drinkwater",
-        "url": "/danny-drinkwater/profil/spieler/73491",
+        "id": "134425",
+        "name": "Raheem Sterling",
+        "url": "/raheem-sterling/profil/spieler/134425",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "50202",
-        "name": "Eden Hazard",
-        "url": "/eden-hazard/profil/spieler/50202",
+        "id": "241641",
+        "name": "Bernardo Silva",
+        "url": "/bernardo-silva/profil/spieler/241641",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "177862",
-        "name": "Charly Musonda Jr.",
-        "url": "/charly-musonda-jr-/profil/spieler/177862",
+        "id": "26399",
+        "name": "Sergio Agüero",
+        "url": "/sergio-aguero/profil/spieler/26399",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "52769",
-        "name": "Willian",
-        "url": "/willian/profil/spieler/52769",
+        "id": "363205",
+        "name": "Gabriel Jesus",
+        "url": "/gabriel-jesus/profil/spieler/363205",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "281",
+            "name": "Manchester City"
         }
     },
     {
-        "id": "65278",
-        "name": "Pedro",
-        "url": "/pedro/profil/spieler/65278",
+        "id": "33873",
+        "name": "Asmir Begovic",
+        "url": "/asmir-begovic/profil/spieler/33873",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "989",
+            "name": "AFC Bournemouth"
         }
     },
     {
-        "id": "59866",
-        "name": "Victor Moses",
-        "url": "/victor-moses/profil/spieler/59866",
+        "id": "4233",
+        "name": "Adam Federici",
+        "url": "/adam-federici/profil/spieler/4233",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "989",
+            "name": "AFC Bournemouth"
         }
     },
     {
-        "id": "128223",
-        "name": "Álvaro Morata",
-        "url": "/alvaro-morata/profil/spieler/128223",
+        "id": "15220",
+        "name": "Artur Boruc",
+        "url": "/artur-boruc/profil/spieler/15220",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "989",
+            "name": "AFC Bournemouth"
         }
     },
     {
-        "id": "44779",
-        "name": "Diego Costa",
-        "url": "/diego-costa/profil/spieler/44779",
+        "id": "427568",
+        "name": "Aaron Ramsdale",
+        "url": "/aaron-ramsdale/profil/spieler/427568",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "989",
+            "name": "AFC Bournemouth"
         }
     },
     {
-        "id": "179184",
-        "name": "Michy Batshuayi",
-        "url": "/michy-batshuayi/profil/spieler/179184",
+        "id": "177476",
+        "name": "Nathan Aké",
+        "url": "/nathan-ake/profil/spieler/177476",
         "team": {
-            "id": "631",
-            "name": "Chelsea FC"
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "90836",
+        "name": "Steve Cook",
+        "url": "/steve-cook/profil/spieler/90836",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "253677",
+        "name": "Tyrone Mings",
+        "url": "/tyrone-mings/profil/spieler/253677",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "61819",
+        "name": "Charlie Daniels",
+        "url": "/charlie-daniels/profil/spieler/61819",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "175745",
+        "name": "Brad Smith",
+        "url": "/brad-smith/profil/spieler/175745",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "42298",
+        "name": "Rhoys Wiggins",
+        "url": "/rhoys-wiggins/profil/spieler/42298",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "61841",
+        "name": "Adam Smith",
+        "url": "/adam-smith/profil/spieler/61841",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "13573",
+        "name": "Simon Francis",
+        "url": "/simon-francis/profil/spieler/13573",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "249089",
+        "name": "Lewis Cook",
+        "url": "/lewis-cook/profil/spieler/249089",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "44983",
+        "name": "Dan Gosling",
+        "url": "/dan-gosling/profil/spieler/44983",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "55742",
+        "name": "Harry Arter",
+        "url": "/harry-arter/profil/spieler/55742",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "29975",
+        "name": "Andrew Surman",
+        "url": "/andrew-surman/profil/spieler/29975",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "223047",
+        "name": "Emerson Hyndman",
+        "url": "/emerson-hyndman/profil/spieler/223047",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "146795",
+        "name": "Ryan Fraser",
+        "url": "/ryan-fraser/profil/spieler/146795",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "87672",
+        "name": "Junior Stanislas",
+        "url": "/junior-stanislas/profil/spieler/87672",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "36939",
+        "name": "Marc Pugh",
+        "url": "/marc-pugh/profil/spieler/36939",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "195652",
+        "name": "Jordon Ibe",
+        "url": "/jordon-ibe/profil/spieler/195652",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "287528",
+        "name": "Connor Mahoney",
+        "url": "/connor-mahoney/profil/spieler/287528",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "91059",
+        "name": "Joshua King",
+        "url": "/joshua-king/profil/spieler/91059",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "110858",
+        "name": "Benik Afobe",
+        "url": "/benik-afobe/profil/spieler/110858",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "123682",
+        "name": "Callum Wilson",
+        "url": "/callum-wilson/profil/spieler/123682",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "3875",
+        "name": "Jermain Defoe",
+        "url": "/jermain-defoe/profil/spieler/3875",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "291422",
+        "name": "Lys Mousset",
+        "url": "/lys-mousset/profil/spieler/291422",
+        "team": {
+            "id": "989",
+            "name": "AFC Bournemouth"
+        }
+    },
+    {
+        "id": "128899",
+        "name": "Jack Butland",
+        "url": "/jack-butland/profil/spieler/128899",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "13460",
+        "name": "Lee Grant",
+        "url": "/lee-grant/profil/spieler/13460",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "138335",
+        "name": "Jakob Haugaard",
+        "url": "/jakob-haugaard/profil/spieler/138335",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "157509",
+        "name": "Kurt Zouma",
+        "url": "/kurt-zouma/profil/spieler/157509",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "122675",
+        "name": "Kevin Wimmer",
+        "url": "/kevin-wimmer/profil/spieler/122675",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "112052",
+        "name": "Bruno Martins Indi",
+        "url": "/bruno-martins-indi/profil/spieler/112052",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "45861",
+        "name": "Ryan Shawcross",
+        "url": "/ryan-shawcross/profil/spieler/45861",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "31642",
+        "name": "Geoff Cameron",
+        "url": "/geoff-cameron/profil/spieler/31642",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "43763",
+        "name": "Erik Pieters",
+        "url": "/erik-pieters/profil/spieler/43763",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "419929",
+        "name": "Josh Tymon",
+        "url": "/josh-tymon/profil/spieler/419929",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "3881",
+        "name": "Glen Johnson",
+        "url": "/glen-johnson/profil/spieler/3881",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "51452",
+        "name": "Joe Allen",
+        "url": "/joe-allen/profil/spieler/51452",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "28990",
+        "name": "Charlie Adam",
+        "url": "/charlie-adam/profil/spieler/28990",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "3547",
+        "name": "Darren Fletcher",
+        "url": "/darren-fletcher/profil/spieler/3547",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "15760",
+        "name": "Ibrahim Afellay",
+        "url": "/ibrahim-afellay/profil/spieler/15760",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "34838",
+        "name": "Stephen Ireland",
+        "url": "/stephen-ireland/profil/spieler/34838",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "134936",
+        "name": "Jesé",
+        "url": "/jese/profil/spieler/134936",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "45660",
+        "name": "Eric Maxim Choupo-Moting",
+        "url": "/eric-maxim-choupo-moting/profil/spieler/45660",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "312017",
+        "name": "Ramadan Sobhi",
+        "url": "/ramadan-sobhi/profil/spieler/312017",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "86792",
+        "name": "Xherdan Shaqiri",
+        "url": "/xherdan-shaqiri/profil/spieler/86792",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "128897",
+        "name": "Saido Berahino",
+        "url": "/saido-berahino/profil/spieler/128897",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "62049",
+        "name": "Mame Diouf",
+        "url": "/mame-diouf/profil/spieler/62049",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "4072",
+        "name": "Peter Crouch",
+        "url": "/peter-crouch/profil/spieler/4072",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "286005",
+        "name": "Julien Ngoy",
+        "url": "/julien-ngoy/profil/spieler/286005",
+        "team": {
+            "id": "512",
+            "name": "Stoke City"
+        }
+    },
+    {
+        "id": "16911",
+        "name": "Kasper Schmeichel",
+        "url": "/kasper-schmeichel/profil/spieler/16911",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "2857",
+        "name": "Eldin Jakupovic",
+        "url": "/eldin-jakupovic/profil/spieler/2857",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "67283",
+        "name": "Ben Hamer",
+        "url": "/ben-hamer/profil/spieler/67283",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "59032",
+        "name": "Aleksandar Dragovic",
+        "url": "/aleksandar-dragovic/profil/spieler/59032",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "177907",
+        "name": "Harry Maguire",
+        "url": "/harry-maguire/profil/spieler/177907",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "2998",
+        "name": "Robert Huth",
+        "url": "/robert-huth/profil/spieler/2998",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "10003",
+        "name": "Wes Morgan",
+        "url": "/wes-morgan/profil/spieler/10003",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "50477",
+        "name": "Yohan Benalouane",
+        "url": "/yohan-benalouane/profil/spieler/50477",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "6636",
+        "name": "Christian Fuchs",
+        "url": "/christian-fuchs/profil/spieler/6636",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "316125",
+        "name": "Ben Chilwell",
+        "url": "/ben-chilwell/profil/spieler/316125",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "37442",
+        "name": "Danny Simpson",
+        "url": "/danny-simpson/profil/spieler/37442",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "274839",
+        "name": "Wilfred Ndidi",
+        "url": "/wilfred-ndidi/profil/spieler/274839",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "65467",
+        "name": "Vicente Iborra",
+        "url": "/vicente-iborra/profil/spieler/65467",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "214056",
+        "name": "Daniel Amartey",
+        "url": "/daniel-amartey/profil/spieler/214056",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "56810",
+        "name": "Adrien Silva",
+        "url": "/adrien-silva/profil/spieler/56810",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "56872",
+        "name": "Andy King",
+        "url": "/andy-king/profil/spieler/56872",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "73522",
+        "name": "Matty James",
+        "url": "/matty-james/profil/spieler/73522",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "61560",
+        "name": "Marc Albrighton",
+        "url": "/marc-albrighton/profil/spieler/61560",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "292417",
+        "name": "Demarai Gray",
+        "url": "/demarai-gray/profil/spieler/292417",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "171424",
+        "name": "Riyad Mahrez",
+        "url": "/riyad-mahrez/profil/spieler/171424",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "174915",
+        "name": "Islam Slimani",
+        "url": "/islam-slimani/profil/spieler/174915",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "168337",
+        "name": "Ahmed Musa",
+        "url": "/ahmed-musa/profil/spieler/168337",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "295330",
+        "name": "Kelechi Iheanacho",
+        "url": "/kelechi-iheanacho/profil/spieler/295330",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "197838",
+        "name": "Jamie Vardy",
+        "url": "/jamie-vardy/profil/spieler/197838",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "79642",
+        "name": "Shinji Okazaki",
+        "url": "/shinji-okazaki/profil/spieler/79642",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "54890",
+        "name": "Leonardo Ulloa",
+        "url": "/leonardo-ulloa/profil/spieler/54890",
+        "team": {
+            "id": "1003",
+            "name": "Leicester City"
+        }
+    },
+    {
+        "id": "29692",
+        "name": "Lukasz Fabianski",
+        "url": "/lukasz-fabianski/profil/spieler/29692",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "56631",
+        "name": "Erwin Mulder",
+        "url": "/erwin-mulder/profil/spieler/56631",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "75890",
+        "name": "Kristoffer Nordfeldt",
+        "url": "/kristoffer-nordfeldt/profil/spieler/75890",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "85475",
+        "name": "Federico Fernández",
+        "url": "/federico-fernandez/profil/spieler/85475",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "287431",
+        "name": "Alfie Mawson",
+        "url": "/alfie-mawson/profil/spieler/287431",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "67421",
+        "name": "Kyle Bartley",
+        "url": "/kyle-bartley/profil/spieler/67421",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "187105",
+        "name": "Mike van der Hoorn",
+        "url": "/mike-van-der-hoorn/profil/spieler/187105",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "38073",
+        "name": "Martin Olsson",
+        "url": "/martin-olsson/profil/spieler/38073",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "66219",
+        "name": "Kyle Naughton",
+        "url": "/kyle-naughton/profil/spieler/66219",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "66550",
+        "name": "Ángel Rangel",
+        "url": "/angel-rangel/profil/spieler/66550",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "81796",
+        "name": "Sung-Yong Ki",
+        "url": "/sung-yong-ki/profil/spieler/81796",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "258027",
+        "name": "Renato Sanches",
+        "url": "/renato-sanches/profil/spieler/258027",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "202984",
+        "name": "Roque Mesa",
+        "url": "/roque-mesa/profil/spieler/202984",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "63342",
+        "name": "Leroy Fer",
+        "url": "/leroy-fer/profil/spieler/63342",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "121279",
+        "name": "Tom Carroll",
+        "url": "/tom-carroll/profil/spieler/121279",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "40043",
+        "name": "Leon Britton",
+        "url": "/leon-britton/profil/spieler/40043",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "171260",
+        "name": "Jay Fulton",
+        "url": "/jay-fulton/profil/spieler/171260",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "122223",
+        "name": "Sam Clucas",
+        "url": "/sam-clucas/profil/spieler/122223",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "14066",
+        "name": "Wayne Routledge",
+        "url": "/wayne-routledge/profil/spieler/14066",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "374889",
+        "name": "Kenji Gorré",
+        "url": "/kenji-gorre/profil/spieler/374889",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "72462",
+        "name": "Luciano Narsingh",
+        "url": "/luciano-narsingh/profil/spieler/72462",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "37011",
+        "name": "Nathan Dyer",
+        "url": "/nathan-dyer/profil/spieler/37011",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "81808",
+        "name": "Wilfried Bony",
+        "url": "/wilfried-bony/profil/spieler/81808",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "331726",
+        "name": "Tammy Abraham",
+        "url": "/tammy-abraham/profil/spieler/331726",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "108354",
+        "name": "Jordan Ayew",
+        "url": "/jordan-ayew/profil/spieler/108354",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "298477",
+        "name": "Oliver McBurnie",
+        "url": "/oliver-mcburnie/profil/spieler/298477",
+        "team": {
+            "id": "2288",
+            "name": "Swansea City"
+        }
+    },
+    {
+        "id": "48870",
+        "name": "Jonas Lössl",
+        "url": "/jonas-lossl/profil/spieler/48870",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "285551",
+        "name": "Joel Coleman",
+        "url": "/joel-coleman/profil/spieler/285551",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "11680",
+        "name": "Robert Green",
+        "url": "/robert-green/profil/spieler/11680",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "52059",
+        "name": "Zanka",
+        "url": "/zanka/profil/spieler/52059",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "57842",
+        "name": "Christopher Schindler",
+        "url": "/christopher-schindler/profil/spieler/57842",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "102382",
+        "name": "Michael Hefele",
+        "url": "/michael-hefele/profil/spieler/102382",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "27659",
+        "name": "Martin Cranie",
+        "url": "/martin-cranie/profil/spieler/27659",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "245034",
+        "name": "Jon Gorenc-Stankovic",
+        "url": "/jon-gorenc-stankovic/profil/spieler/245034",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "101682",
+        "name": "Scott Malone",
+        "url": "/scott-malone/profil/spieler/101682",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "55125",
+        "name": "Chris Löwe",
+        "url": "/chris-lowe/profil/spieler/55125",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "238809",
+        "name": "Florent Hadergjonaj",
+        "url": "/florent-hadergjonaj/profil/spieler/238809",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "121398",
+        "name": "Tom Smith",
+        "url": "/tom-smith/profil/spieler/121398",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "38383",
+        "name": "Danny Williams",
+        "url": "/danny-williams/profil/spieler/38383",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "123951",
+        "name": "Aaron Mooy",
+        "url": "/aaron-mooy/profil/spieler/123951",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "61573",
+        "name": "Jonathan Hogg",
+        "url": "/jonathan-hogg/profil/spieler/61573",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "320411",
+        "name": "Philip Billing",
+        "url": "/philip-billing/profil/spieler/320411",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "13683",
+        "name": "Dean Whitehead",
+        "url": "/dean-whitehead/profil/spieler/13683",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "258216",
+        "name": "Kasey Palmer",
+        "url": "/kasey-palmer/profil/spieler/258216",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "340394",
+        "name": "Abdelhamid Sabiri",
+        "url": "/abdelhamid-sabiri/profil/spieler/340394",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "157368",
+        "name": "Tom Ince",
+        "url": "/tom-ince/profil/spieler/157368",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "77001",
+        "name": "Rajiv van La Parra",
+        "url": "/rajiv-van-la-parra/profil/spieler/77001",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "287167",
+        "name": "Joe Lolley",
+        "url": "/joe-lolley/profil/spieler/287167",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "238639",
+        "name": "Steve Mounié",
+        "url": "/steve-mounie/profil/spieler/238639",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "49501",
+        "name": "Elias Kachunga",
+        "url": "/elias-kachunga/profil/spieler/49501",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "90583",
+        "name": "Laurent Depoitre",
+        "url": "/laurent-depoitre/profil/spieler/90583",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
+        }
+    },
+    {
+        "id": "123397",
+        "name": "Collin Quaner",
+        "url": "/collin-quaner/profil/spieler/123397",
+        "team": {
+            "id": "1110",
+            "name": "Huddersfield Town"
         }
     },
     {
@@ -4686,6 +3192,1500 @@
         "team": {
             "id": "180",
             "name": "Southampton FC"
+        }
+    },
+    {
+        "id": "59377",
+        "name": "David de Gea",
+        "url": "/david-de-gea/profil/spieler/59377",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "30690",
+        "name": "Sergio Romero",
+        "url": "/sergio-romero/profil/spieler/30690",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "192611",
+        "name": "Joel Pereira",
+        "url": "/joel-pereira/profil/spieler/192611",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "286384",
+        "name": "Eric Bailly",
+        "url": "/eric-bailly/profil/spieler/286384",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "184573",
+        "name": "Victor Lindelöf",
+        "url": "/victor-lindelof/profil/spieler/184573",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "117996",
+        "name": "Phil Jones",
+        "url": "/phil-jones/profil/spieler/117996",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "93176",
+        "name": "Marcos Rojo",
+        "url": "/marcos-rojo/profil/spieler/93176",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "103427",
+        "name": "Chris Smalling",
+        "url": "/chris-smalling/profil/spieler/103427",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "12282",
+        "name": "Daley Blind",
+        "url": "/daley-blind/profil/spieler/12282",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "183288",
+        "name": "Luke Shaw",
+        "url": "/luke-shaw/profil/spieler/183288",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "54906",
+        "name": "Matteo Darmian",
+        "url": "/matteo-darmian/profil/spieler/54906",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "33544",
+        "name": "Antonio Valencia",
+        "url": "/antonio-valencia/profil/spieler/33544",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "74683",
+        "name": "Nemanja Matic",
+        "url": "/nemanja-matic/profil/spieler/74683",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "3878",
+        "name": "Michael Carrick",
+        "url": "/michael-carrick/profil/spieler/3878",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "122153",
+        "name": "Paul Pogba",
+        "url": "/paul-pogba/profil/spieler/122153",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "99343",
+        "name": "Ander Herrera",
+        "url": "/ander-herrera/profil/spieler/99343",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "39679",
+        "name": "Marouane Fellaini",
+        "url": "/marouane-fellaini/profil/spieler/39679",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "14086",
+        "name": "Ashley Young",
+        "url": "/ashley-young/profil/spieler/14086",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "55735",
+        "name": "Henrikh Mkhitaryan",
+        "url": "/henrikh-mkhitaryan/profil/spieler/55735",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "44068",
+        "name": "Juan Mata",
+        "url": "/juan-mata/profil/spieler/44068",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "182877",
+        "name": "Anthony Martial",
+        "url": "/anthony-martial/profil/spieler/182877",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "141660",
+        "name": "Jesse Lingard",
+        "url": "/jesse-lingard/profil/spieler/141660",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "96341",
+        "name": "Romelu Lukaku",
+        "url": "/romelu-lukaku/profil/spieler/96341",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "258923",
+        "name": "Marcus Rashford",
+        "url": "/marcus-rashford/profil/spieler/258923",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "3455",
+        "name": "Zlatan Ibrahimovic",
+        "url": "/zlatan-ibrahimovic/profil/spieler/3455",
+        "team": {
+            "id": "985",
+            "name": "Manchester United"
+        }
+    },
+    {
+        "id": "128969",
+        "name": "Mathew Ryan",
+        "url": "/mathew-ryan/profil/spieler/128969",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "33027",
+        "name": "Tim Krul",
+        "url": "/tim-krul/profil/spieler/33027",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "12359",
+        "name": "Niki Mäenpää",
+        "url": "/niki-maenpaa/profil/spieler/12359",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "148153",
+        "name": "Lewis Dunk",
+        "url": "/lewis-dunk/profil/spieler/148153",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "119269",
+        "name": "Shane Duffy",
+        "url": "/shane-duffy/profil/spieler/119269",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "10503",
+        "name": "Uwe Hünemeier",
+        "url": "/uwe-hunemeier/profil/spieler/10503",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "163656",
+        "name": "Connor Goldson",
+        "url": "/connor-goldson/profil/spieler/163656",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "31514",
+        "name": "Markus Suttner",
+        "url": "/markus-suttner/profil/spieler/31514",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "36291",
+        "name": "Gaëtan Bong",
+        "url": "/gaetan-bong/profil/spieler/36291",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "119164",
+        "name": "Ezequiel Schelotto",
+        "url": "/ezequiel-schelotto/profil/spieler/119164",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "242078",
+        "name": "Ales Mateju",
+        "url": "/ales-mateju/profil/spieler/242078",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "15166",
+        "name": "Liam Rosenior",
+        "url": "/liam-rosenior/profil/spieler/15166",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "51528",
+        "name": "Bruno",
+        "url": "/bruno/profil/spieler/51528",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "79027",
+        "name": "Davy Pröpper",
+        "url": "/davy-propper/profil/spieler/79027",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "82873",
+        "name": "Pascal Groß",
+        "url": "/pascal-gross/profil/spieler/82873",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "49755",
+        "name": "Dale Stephens",
+        "url": "/dale-stephens/profil/spieler/49755",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "44741",
+        "name": "Biram Kayal",
+        "url": "/biram-kayal/profil/spieler/44741",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "13427",
+        "name": "Steve Sidwell",
+        "url": "/steve-sidwell/profil/spieler/13427",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "209212",
+        "name": "Solly March",
+        "url": "/solly-march/profil/spieler/209212",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "147094",
+        "name": "José Izquierdo",
+        "url": "/jose-izquierdo/profil/spieler/147094",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "51730",
+        "name": "Jamie Murphy",
+        "url": "/jamie-murphy/profil/spieler/51730",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "148734",
+        "name": "Jirí Skalák",
+        "url": "/jiri-skalak/profil/spieler/148734",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "262895",
+        "name": "Soufyan Ahannach",
+        "url": "/soufyan-ahannach/profil/spieler/262895",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "149237",
+        "name": "Anthony Knockaert",
+        "url": "/anthony-knockaert/profil/spieler/149237",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "245805",
+        "name": "Isaiah Brown",
+        "url": "/isaiah-brown/profil/spieler/245805",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "45693",
+        "name": "Glenn Murray",
+        "url": "/glenn-murray/profil/spieler/45693",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "67211",
+        "name": "Sam Baldock",
+        "url": "/sam-baldock/profil/spieler/67211",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "112668",
+        "name": "Tomer Hemed",
+        "url": "/tomer-hemed/profil/spieler/112668",
+        "team": {
+            "id": "1237",
+            "name": "Brighton & Hove Albion"
+        }
+    },
+    {
+        "id": "130164",
+        "name": "Jordan Pickford",
+        "url": "/jordan-pickford/profil/spieler/130164",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "101118",
+        "name": "Joel Robles",
+        "url": "/joel-robles/profil/spieler/101118",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "4311",
+        "name": "Maarten Stekelenburg",
+        "url": "/maarten-stekelenburg/profil/spieler/4311",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "118534",
+        "name": "Michael Keane",
+        "url": "/michael-keane/profil/spieler/118534",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "11111",
+        "name": "Ramiro Funes Mori",
+        "url": "/ramiro-funes-mori/profil/spieler/11111",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "67355",
+        "name": "Ashley Williams",
+        "url": "/ashley-williams/profil/spieler/67355",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "348623",
+        "name": "Mason Holgate",
+        "url": "/mason-holgate/profil/spieler/348623",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "13520",
+        "name": "Phil Jagielka",
+        "url": "/phil-jagielka/profil/spieler/13520",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "13507",
+        "name": "Leighton Baines",
+        "url": "/leighton-baines/profil/spieler/13507",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "110860",
+        "name": "Luke Garbutt",
+        "url": "/luke-garbutt/profil/spieler/110860",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "68390",
+        "name": "Seamus Coleman",
+        "url": "/seamus-coleman/profil/spieler/68390",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "91251",
+        "name": "Cuco Martina",
+        "url": "/cuco-martina/profil/spieler/91251",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "258883",
+        "name": "Jonjoe Kenny",
+        "url": "/jonjoe-kenny/profil/spieler/258883",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "56818",
+        "name": "Morgan Schneiderlin",
+        "url": "/morgan-schneiderlin/profil/spieler/56818",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "93905",
+        "name": "Muhamed Besic",
+        "url": "/muhamed-besic/profil/spieler/93905",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "126665",
+        "name": "Idrissa Gueye",
+        "url": "/idrissa-gueye/profil/spieler/126665",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "45333",
+        "name": "James McCarthy",
+        "url": "/james-mccarthy/profil/spieler/45333",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "314210",
+        "name": "Tom Davies",
+        "url": "/tom-davies/profil/spieler/314210",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "90466",
+        "name": "Gylfi Sigurdsson",
+        "url": "/gylfi-sigurdsson/profil/spieler/90466",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "131978",
+        "name": "Ross Barkley",
+        "url": "/ross-barkley/profil/spieler/131978",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "182932",
+        "name": "Davy Klaassen",
+        "url": "/davy-klaassen/profil/spieler/182932",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "293200",
+        "name": "Nikola Vlasic",
+        "url": "/nikola-vlasic/profil/spieler/293200",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "75471",
+        "name": "Yannick Bolasie",
+        "url": "/yannick-bolasie/profil/spieler/75471",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "406040",
+        "name": "Ademola Lookman",
+        "url": "/ademola-lookman/profil/spieler/406040",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "33639",
+        "name": "Kevin Mirallas",
+        "url": "/kevin-mirallas/profil/spieler/33639",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "14221",
+        "name": "Aaron Lennon",
+        "url": "/aaron-lennon/profil/spieler/14221",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "3332",
+        "name": "Wayne Rooney",
+        "url": "/wayne-rooney/profil/spieler/3332",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "306024",
+        "name": "Dominic Calvert-Lewin",
+        "url": "/dominic-calvert-lewin/profil/spieler/306024",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "184381",
+        "name": "Shani Tarashaj",
+        "url": "/shani-tarashaj/profil/spieler/184381",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "199369",
+        "name": "Sandro Ramírez",
+        "url": "/sandro-ramirez/profil/spieler/199369",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "209781",
+        "name": "Oumar Niasse",
+        "url": "/oumar-niasse/profil/spieler/209781",
+        "team": {
+            "id": "29",
+            "name": "Everton FC"
+        }
+    },
+    {
+        "id": "108390",
+        "name": "Thibaut Courtois",
+        "url": "/thibaut-courtois/profil/spieler/108390",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "19948",
+        "name": "Willy Caballero",
+        "url": "/willy-caballero/profil/spieler/19948",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "34159",
+        "name": "Eduardo",
+        "url": "/eduardo/profil/spieler/34159",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "60220",
+        "name": "Matej Delac",
+        "url": "/matej-delac/profil/spieler/60220",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "46741",
+        "name": "David Luiz",
+        "url": "/david-luiz/profil/spieler/46741",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "86202",
+        "name": "Antonio Rüdiger",
+        "url": "/antonio-rudiger/profil/spieler/86202",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "196948",
+        "name": "Andreas Christensen",
+        "url": "/andreas-christensen/profil/spieler/196948",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "27511",
+        "name": "Gary Cahill",
+        "url": "/gary-cahill/profil/spieler/27511",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "112515",
+        "name": "Marcos Alonso",
+        "url": "/marcos-alonso/profil/spieler/112515",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "224884",
+        "name": "Abdul Rahman Baba",
+        "url": "/abdul-rahman-baba/profil/spieler/224884",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "281404",
+        "name": "Kenedy",
+        "url": "/kenedy/profil/spieler/281404",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "57500",
+        "name": "César Azpilicueta",
+        "url": "/cesar-azpilicueta/profil/spieler/57500",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "173859",
+        "name": "Davide Zappacosta",
+        "url": "/davide-zappacosta/profil/spieler/173859",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "181779",
+        "name": "Wallace Oliveira",
+        "url": "/wallace-oliveira/profil/spieler/181779",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "225083",
+        "name": "N'Golo Kanté",
+        "url": "/ngolo-kante/profil/spieler/225083",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "182618",
+        "name": "Tiemoué Bakayoko",
+        "url": "/tiemoue-bakayoko/profil/spieler/182618",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "8806",
+        "name": "Cesc Fàbregas",
+        "url": "/cesc-fabregas/profil/spieler/8806",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "73491",
+        "name": "Danny Drinkwater",
+        "url": "/danny-drinkwater/profil/spieler/73491",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "50202",
+        "name": "Eden Hazard",
+        "url": "/eden-hazard/profil/spieler/50202",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "177862",
+        "name": "Charly Musonda Jr.",
+        "url": "/charly-musonda-jr-/profil/spieler/177862",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "52769",
+        "name": "Willian",
+        "url": "/willian/profil/spieler/52769",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "65278",
+        "name": "Pedro",
+        "url": "/pedro/profil/spieler/65278",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "59866",
+        "name": "Victor Moses",
+        "url": "/victor-moses/profil/spieler/59866",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "128223",
+        "name": "Álvaro Morata",
+        "url": "/alvaro-morata/profil/spieler/128223",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "44779",
+        "name": "Diego Costa",
+        "url": "/diego-costa/profil/spieler/44779",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "179184",
+        "name": "Michy Batshuayi",
+        "url": "/michy-batshuayi/profil/spieler/179184",
+        "team": {
+            "id": "631",
+            "name": "Chelsea FC"
+        }
+    },
+    {
+        "id": "16408",
+        "name": "Orestis Karnezis",
+        "url": "/orestis-karnezis/profil/spieler/16408",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "19059",
+        "name": "Heurelho Gomes",
+        "url": "/heurelho-gomes/profil/spieler/19059",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "120186",
+        "name": "Daniel Bachmann",
+        "url": "/daniel-bachmann/profil/spieler/120186",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "81512",
+        "name": "Christian Kabasele",
+        "url": "/christian-kabasele/profil/spieler/81512",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "37981",
+        "name": "Sebastian Prödl",
+        "url": "/sebastian-prodl/profil/spieler/37981",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "59606",
+        "name": "Craig Cathcart",
+        "url": "/craig-cathcart/profil/spieler/59606",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "76799",
+        "name": "Miguel Britos",
+        "url": "/miguel-britos/profil/spieler/76799",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "27114",
+        "name": "Younès Kaboul",
+        "url": "/younes-kaboul/profil/spieler/27114",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "129893",
+        "name": "Molla Wague",
+        "url": "/molla-wague/profil/spieler/129893",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "38145",
+        "name": "Adrian Mariappa",
+        "url": "/adrian-mariappa/profil/spieler/38145",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "183161",
+        "name": "Tommie Hoban",
+        "url": "/tommie-hoban/profil/spieler/183161",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "92899",
+        "name": "Marvin Zeegelaar",
+        "url": "/marvin-zeegelaar/profil/spieler/92899",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "41112",
+        "name": "José Holebas",
+        "url": "/jose-holebas/profil/spieler/41112",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "60744",
+        "name": "Daryl Janmaat",
+        "url": "/daryl-janmaat/profil/spieler/60744",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "76467",
+        "name": "Kiko Femenía",
+        "url": "/kiko-femenia/profil/spieler/76467",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "93690",
+        "name": "Brice Dja Djedjé",
+        "url": "/brice-dja-djedje/profil/spieler/93690",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "63494",
+        "name": "Étienne Capoue",
+        "url": "/etienne-capoue/profil/spieler/63494",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "128900",
+        "name": "Nathaniel Chalobah",
+        "url": "/nathaniel-chalobah/profil/spieler/128900",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "73484",
+        "name": "Tom Cleverley",
+        "url": "/tom-cleverley/profil/spieler/73484",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "207014",
+        "name": "Will Hughes",
+        "url": "/will-hughes/profil/spieler/207014",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "127187",
+        "name": "Abdoulaye Doucouré",
+        "url": "/abdoulaye-doucoure/profil/spieler/127187",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "14081",
+        "name": "Ben Watson",
+        "url": "/ben-watson/profil/spieler/14081",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "112302",
+        "name": "Roberto Pereyra",
+        "url": "/roberto-pereyra/profil/spieler/112302",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "378710",
+        "name": "Richarlison",
+        "url": "/richarlison/profil/spieler/378710",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "295331",
+        "name": "Isaac Success",
+        "url": "/isaac-success/profil/spieler/295331",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "135057",
+        "name": "André Carrillo",
+        "url": "/andre-carrillo/profil/spieler/135057",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "120565",
+        "name": "Andre Gray",
+        "url": "/andre-gray/profil/spieler/120565",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "65477",
+        "name": "Troy Deeney",
+        "url": "/troy-deeney/profil/spieler/65477",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "35249",
+        "name": "Stefano Okaka",
+        "url": "/stefano-okaka/profil/spieler/35249",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "236513",
+        "name": "Jerome Sinclair",
+        "url": "/jerome-sinclair/profil/spieler/236513",
+        "team": {
+            "id": "1010",
+            "name": "Watford FC"
+        }
+    },
+    {
+        "id": "73396",
+        "name": "David Ospina",
+        "url": "/david-ospina/profil/spieler/73396",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "5658",
+        "name": "Petr Cech",
+        "url": "/petr-cech/profil/spieler/5658",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "220491",
+        "name": "Matt Macey",
+        "url": "/matt-macey/profil/spieler/220491",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "88590",
+        "name": "Shkodran Mustafi",
+        "url": "/shkodran-mustafi/profil/spieler/88590",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "76277",
+        "name": "Laurent Koscielny",
+        "url": "/laurent-koscielny/profil/spieler/76277",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "253341",
+        "name": "Rob Holding",
+        "url": "/rob-holding/profil/spieler/253341",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "6710",
+        "name": "Per Mertesacker",
+        "url": "/per-mertesacker/profil/spieler/6710",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "94005",
+        "name": "Sead Kolasinac",
+        "url": "/sead-kolasinac/profil/spieler/94005",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "43003",
+        "name": "Nacho Monreal",
+        "url": "/nacho-monreal/profil/spieler/43003",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "191217",
+        "name": "Héctor Bellerín",
+        "url": "/hector-bellerin/profil/spieler/191217",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "215118",
+        "name": "Calum Chambers",
+        "url": "/calum-chambers/profil/spieler/215118",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "27306",
+        "name": "Mathieu Debuchy",
+        "url": "/mathieu-debuchy/profil/spieler/27306",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "111455",
+        "name": "Granit Xhaka",
+        "url": "/granit-xhaka/profil/spieler/111455",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "74869",
+        "name": "Francis Coquelin",
+        "url": "/francis-coquelin/profil/spieler/74869",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "160438",
+        "name": "Mohamed Elneny",
+        "url": "/mohamed-elneny/profil/spieler/160438",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "50057",
+        "name": "Aaron Ramsey",
+        "url": "/aaron-ramsey/profil/spieler/50057",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "74223",
+        "name": "Jack Wilshere",
+        "url": "/jack-wilshere/profil/spieler/74223",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "15799",
+        "name": "Santi Cazorla",
+        "url": "/santi-cazorla/profil/spieler/15799",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "35664",
+        "name": "Mesut Özil",
+        "url": "/mesut-ozil/profil/spieler/35664",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "40433",
+        "name": "Alexis Sánchez",
+        "url": "/alexis-sanchez/profil/spieler/40433",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "242631",
+        "name": "Alex Iwobi",
+        "url": "/alex-iwobi/profil/spieler/242631",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "33713",
+        "name": "Theo Walcott",
+        "url": "/theo-walcott/profil/spieler/33713",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "93720",
+        "name": "Alexandre Lacazette",
+        "url": "/alexandre-lacazette/profil/spieler/93720",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "82442",
+        "name": "Olivier Giroud",
+        "url": "/olivier-giroud/profil/spieler/82442",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "67063",
+        "name": "Danny Welbeck",
+        "url": "/danny-welbeck/profil/spieler/67063",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
+        }
+    },
+    {
+        "id": "197642",
+        "name": "Chuba Akpom",
+        "url": "/chuba-akpom/profil/spieler/197642",
+        "team": {
+            "id": "11",
+            "name": "Arsenal FC"
         }
     }
 ]
