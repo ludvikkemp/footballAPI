@@ -19,22 +19,23 @@ app.get('/scrape', (req, res) => {
     'Content-Type' : 'application/x-www-form-urlencoded' 
   };
 
-  /* Code that workes but has to be implemented
-  const teamNames = $('.responsive-table .items tbody .hauptlink .vereinprofil_tooltip').map(function(i, elem) {
-    return $(this).text();
-  }).get().join(', ').split(', ');
-  */
-  
   // ** Request numeber 1 **
   // Scraping tansfermarket for list of team in the Premier Laeague
   request({ url: leagueURL, form: form, headers: headers }, (err, res, body) => {
     const $ = cheerio.load(body);
     const data = $('.responsive-table .items tbody .zentriert .vereinprofil_tooltip').toArray();
+
+    const teamNames = $('.responsive-table .items tbody .hauptlink .vereinprofil_tooltip')
+                        .map(function(i, elem) { return $(this).text(); }).get()
+                        .join(', ').split(', ').filter((elem, i) =>  i % 2 === 0);
+
+    console.log(teamNames)
+
     const teams = [];
     for (let i = 0; i < data.length; i++) {
       const obj = {
         id: data[i].attribs.href.split('/', 7)[4],
-        name: data[i].attribs.href.split('/', 7)[1],
+        name: teamNames[i],
         href: data[i].attribs.href
       }
       teams.push(obj);
