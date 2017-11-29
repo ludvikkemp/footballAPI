@@ -1,0 +1,152 @@
+[
+    {
+        "id": "GB1",
+        "title": "Premier League",
+        "nation": "England",
+        "href": "/premier-league/startseite/wettbewerb/GB1"
+    },
+    {
+        "id": "ES1",
+        "title": "LaLiga",
+        "nation": "Spain",
+        "href": "/laliga/startseite/wettbewerb/ES1"
+    },
+    {
+        "id": "IT1",
+        "title": "Serie A",
+        "nation": "Italy",
+        "href": "/serie-a/startseite/wettbewerb/IT1"
+    },
+    {
+        "id": "L1",
+        "title": "1.Bundesliga",
+        "nation": "Germany",
+        "href": "/1-bundesliga/startseite/wettbewerb/L1"
+    },
+    {
+        "id": "FR1",
+        "title": "Ligue 1",
+        "nation": "France",
+        "href": "/ligue-1/startseite/wettbewerb/FR1"
+    },
+    {
+        "id": "TR1",
+        "title": "Süper Lig",
+        "nation": "Turkey",
+        "href": "/super-lig/startseite/wettbewerb/TR1"
+    },
+    {
+        "id": "PO1",
+        "title": "Liga NOS",
+        "nation": "Portugal",
+        "href": "/liga-nos/startseite/wettbewerb/PO1"
+    },
+    {
+        "id": "RU1",
+        "title": "Premier Liga",
+        "nation": "Russia",
+        "href": "/premier-liga/startseite/wettbewerb/RU1"
+    },
+    {
+        "id": "NL1",
+        "title": "Eredivisie",
+        "nation": "Netherlands",
+        "href": "/eredivisie/startseite/wettbewerb/NL1"
+    },
+    {
+        "id": "BE1",
+        "title": "Jupiler Pro League",
+        "nation": "Belgium",
+        "href": "/jupiler-pro-league/startseite/wettbewerb/BE1"
+    },
+    {
+        "id": "GR1",
+        "title": "Super League",
+        "nation": "Greece",
+        "href": "/super-league/startseite/wettbewerb/GR1"
+    },
+    {
+        "id": "UKR1",
+        "title": "Premier Liga",
+        "nation": "Ukraine",
+        "href": "/premier-liga/startseite/wettbewerb/UKR1"
+    },
+    {
+        "id": "C1",
+        "title": "Raiffeisen Super League",
+        "nation": "Switzerland",
+        "href": "/raiffeisen-super-league/startseite/wettbewerb/C1"
+    },
+    {
+        "id": "TS1",
+        "title": "HET Liga",
+        "nation": "Czech Republic",
+        "href": "/het-liga/startseite/wettbewerb/TS1"
+    },
+    {
+        "id": "A1",
+        "title": "Bundesliga",
+        "nation": "Austria",
+        "href": "/bundesliga/startseite/wettbewerb/A1"
+    },
+    {
+        "id": "KR1",
+        "title": "1.HNL",
+        "nation": "Croatia",
+        "href": "/1-hnl/startseite/wettbewerb/KR1"
+    },
+    {
+        "id": "PL1",
+        "title": "Lotto Ekstraklasa",
+        "nation": "Poland",
+        "href": "/lotto-ekstraklasa/startseite/wettbewerb/PL1"
+    },
+    {
+        "id": "DK1",
+        "title": "Alka Superligaen",
+        "nation": "Denmark",
+        "href": "/alka-superligaen/startseite/wettbewerb/DK1"
+    },
+    {
+        "id": "SC1",
+        "title": "Scottish Premiership",
+        "nation": "Scotland",
+        "href": "/scottish-premiership/startseite/wettbewerb/SC1"
+    },
+    {
+        "id": "RO1",
+        "title": "Liga 1",
+        "nation": "Romania",
+        "href": "/liga-1/startseite/wettbewerb/RO1"
+    },
+    {
+        "id": "SE1",
+        "title": "Allsvenskan",
+        "nation": "Sweden",
+        "href": "/allsvenskan/startseite/wettbewerb/SE1"
+    },
+    {
+        "id": "ISR1",
+        "title": "Ligat ha'Al",
+        "nation": "Israel",
+        "href": "/ligat-haal/startseite/wettbewerb/ISR1"
+    },
+    {
+        "id": "SER1",
+        "title": "SuperLiga",
+        "nation": "Serbia",
+        "href": "/superliga/startseite/wettbewerb/SER1"
+    },
+    {
+        "id": "ZYP1",
+        "title": "First Division",
+        "nation": "Cyprus",
+        "href": "/first-division/startseite/wettbewerb/ZYP1"
+    },
+    {
+        "id": "BU1",
+        "title": "Parva Liga",
+        "nation": "Bulgaria",
+        "href": "/parva-liga/startseite/wettbewerb/BU1"
+    }
+]

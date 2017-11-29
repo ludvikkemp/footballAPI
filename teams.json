@@ -1,102 +1,3494 @@
 [
     {
+        "id": "301",
+        "name": "FCS Bucharest",
+        "href": "/steaua-bukarest/startseite/verein/301/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "7769",
+        "name": "CFR Cluj",
+        "href": "/cfr-cluj/startseite/verein/7769/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "312",
+        "name": "Dinamo Bukarest",
+        "href": "/dinamo-bukarest/startseite/verein/312/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "29831",
+        "name": "FC Viitorul ",
+        "href": "/fc-viitorul-constanta/startseite/verein/29831/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "40812",
+        "name": "CS U Craiova",
+        "href": "/cs-u-craiova/startseite/verein/40812/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "13499",
+        "name": "Astra Giurgiu",
+        "href": "/astra-giurgiu/startseite/verein/13499/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "15945",
+        "name": "Concordia Chiajna",
+        "href": "/concordia-chiajna/startseite/verein/15945/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "40843",
+        "name": "FC Voluntari",
+        "href": "/fc-voluntari/startseite/verein/40843/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "8818",
+        "name": "FC Botosani",
+        "href": "/fc-botosani/startseite/verein/8818/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "36590",
+        "name": "ACS Poli Timisoara",
+        "href": "/acs-poli-timisoara/startseite/verein/36590/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "33966",
+        "name": "CSM Politehnica Iasi",
+        "href": "/csms-iasi/startseite/verein/33966/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "8104",
+        "name": "Gaz Metan Medias",
+        "href": "/gaz-metan-medias/startseite/verein/8104/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "11222",
+        "name": "Juventus Bukarest",
+        "href": "/juventus-bukarest/startseite/verein/11222/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "54585",
+        "name": "Sepsi Sf. Gheorghe",
+        "href": "/sepsi-osk-sfantu-gheorghe/startseite/verein/54585/saison_id/2017",
+        "league": {
+            "id": "RO1",
+            "title": "Liga 1"
+        }
+    },
+    {
+        "id": "119",
+        "name": "Maccabi Tel Aviv",
+        "href": "/maccabi-tel-aviv/startseite/verein/119/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "2976",
+        "name": "Hapoel Beer Sheva",
+        "href": "/hapoel-beer-sheva/startseite/verein/2976/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "1064",
+        "name": "Maccabi Haifa",
+        "href": "/maccabi-haifa/startseite/verein/1064/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "3793",
+        "name": "Beitar Jerusalem",
+        "href": "/beitar-jerusalem/startseite/verein/3793/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "3785",
+        "name": "Maccabi Petah Tikva",
+        "href": "/maccabi-petah-tikva-fc/startseite/verein/3785/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "810",
+        "name": "Hapoel Haifa",
+        "href": "/hapoel-haifa/startseite/verein/810/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "9095",
+        "name": "Bnei Yehuda Tel Aviv",
+        "href": "/bnei-yehuda-tel-aviv/startseite/verein/9095/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "20857",
+        "name": "Hapoel Raanana",
+        "href": "/hapoel-raanana/startseite/verein/20857/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "6028",
+        "name": "Ironi Kiryat Shmona",
+        "href": "/hapoel-ironi-kiryat-shmona/startseite/verein/6028/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "4769",
+        "name": "Ihud Bnei Sakhnin",
+        "href": "/hapoel-bnei-sachnin/startseite/verein/4769/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "19977",
+        "name": "Hapoel Ashkelon",
+        "href": "/hapoel-ashkelon/startseite/verein/19977/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "5223",
+        "name": "Maccabi Netanya",
+        "href": "/maccabi-netanya/startseite/verein/5223/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "6105",
+        "name": "FC Ashdod",
+        "href": "/ms-ashdod/startseite/verein/6105/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "6025",
+        "name": "Hapoel Acre",
+        "href": "/hapoel-akko/startseite/verein/6025/saison_id/2017",
+        "league": {
+            "id": "ISR1",
+            "title": "Ligat ha'Al"
+        }
+    },
+    {
+        "id": "371",
+        "name": "Celtic FC",
+        "href": "/celtic-glasgow/startseite/verein/371/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "124",
+        "name": "Rangers FC",
+        "href": "/glasgow-rangers/startseite/verein/124/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "43",
+        "name": "Heart of Midlothian FC",
+        "href": "/heart-of-midlothian-fc/startseite/verein/43/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "370",
+        "name": "Aberdeen FC",
+        "href": "/aberdeen-fc/startseite/verein/370/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "903",
+        "name": "Hibernian FC",
+        "href": "/hibernian-fc/startseite/verein/903/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "511",
+        "name": "Dundee FC",
+        "href": "/dundee-fc/startseite/verein/511/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "2553",
+        "name": "Kilmarnock FC",
+        "href": "/kilmarnock-fc/startseite/verein/2553/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "2578",
+        "name": "St. Johnstone FC",
+        "href": "/st-johnstone-fc/startseite/verein/2578/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "2760",
+        "name": "Partick Thistle FC ",
+        "href": "/partick-thistle-fc/startseite/verein/2760/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "2999",
+        "name": "Hamilton Academical FC",
+        "href": "/hamilton-academical-fc/startseite/verein/2999/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "2759",
+        "name": "Ross County FC",
+        "href": "/ross-county-fc/startseite/verein/2759/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "987",
+        "name": "Motherwell FC",
+        "href": "/motherwell-fc/startseite/verein/987/saison_id/2017",
+        "league": {
+            "id": "SC1",
+            "title": "Scottish Premiership"
+        }
+    },
+    {
+        "id": "660",
+        "name": "Shakhtar Donetsk",
+        "href": "/shakhtar-donetsk/startseite/verein/660/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "338",
+        "name": "Dynamo Kyiv",
+        "href": "/dynamo-kiew/startseite/verein/338/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "10690",
+        "name": "Zorya Luhansk",
+        "href": "/zorya-lugansk/startseite/verein/10690/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "2477",
+        "name": "Karpaty Lviv",
+        "href": "/karpaty-lviv/startseite/verein/2477/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "18303",
+        "name": "FK Oleksandria",
+        "href": "/pfk-oleksandria/startseite/verein/18303/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "6992",
+        "name": "Chornomorets Odessa",
+        "href": "/chornomorets-odessa/startseite/verein/6992/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "6993",
+        "name": "FK Mariupol",
+        "href": "/ilyichivets-mariupol/startseite/verein/6993/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "2740",
+        "name": "Vorskla Poltava",
+        "href": "/vorskla-poltava/startseite/verein/2740/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "23611",
+        "name": "Olimpik Donetsk",
+        "href": "/olimpik-donetsk/startseite/verein/23611/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "26459",
+        "name": "NK Veres Rivne",
+        "href": "/veres-rivne/startseite/verein/26459/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "8838",
+        "name": "Zirka Kropyvnytsky",
+        "href": "/zirka-kirovograd/startseite/verein/8838/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "16247",
+        "name": "PFK Stal Kamyanske",
+        "href": "/stal-dniprodzerzhynsk/startseite/verein/16247/saison_id/2017",
+        "league": {
+            "id": "UKR1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "683",
+        "name": "Olympiacos Piraeus",
+        "href": "/olympiakos-piraus/startseite/verein/683/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "1091",
+        "name": "PAOK Thessaloniki",
+        "href": "/paok-thessaloniki/startseite/verein/1091/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "265",
+        "name": "Panathinaikos Athens",
+        "href": "/panathinaikos-athen/startseite/verein/265/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "2441",
+        "name": "AEK Athens",
+        "href": "/aek-athen/startseite/verein/2441/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "6676",
+        "name": "Asteras Tripolis",
+        "href": "/asteras-tripolis/startseite/verein/6676/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "3060",
+        "name": "Atromitos Athen",
+        "href": "/atromitos-athen/startseite/verein/3060/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "169",
+        "name": "Panionios Athens",
+        "href": "/panionios-athen/startseite/verein/169/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "2671",
+        "name": "PAS Giannina",
+        "href": "/pas-giannina/startseite/verein/2671/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "6418",
+        "name": "Panetolikos Agrinio",
+        "href": "/panetolikos-agrinio/startseite/verein/6418/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "4603",
+        "name": "AE Larisa",
+        "href": "/ae-larisa/startseite/verein/4603/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "441",
+        "name": "Apollon Smyrnis",
+        "href": "/apollon-smyrnis/startseite/verein/441/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "128",
+        "name": "AO Xanthi",
+        "href": "/skoda-xanthi/startseite/verein/128/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "5219",
+        "name": "AOK Kerkyra",
+        "href": "/pae-kerkyra/startseite/verein/5219/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "2672",
+        "name": "APO Levadiakos",
+        "href": "/apo-levadiakos/startseite/verein/2672/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "3999",
+        "name": "PAS Lamia 1964",
+        "href": "/pas-lamia-1964/startseite/verein/3999/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "21957",
+        "name": "Platanias Chania",
+        "href": "/platanias-chania/startseite/verein/21957/saison_id/2017",
+        "league": {
+            "id": "GR1",
+            "title": "Super League"
+        }
+    },
+    {
+        "id": "720",
+        "name": "FC Porto",
+        "href": "/fc-porto/startseite/verein/720/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "294",
+        "name": "SL Benfica",
+        "href": "/benfica-lissabon/startseite/verein/294/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "336",
+        "name": "Sporting CP",
+        "href": "/sporting-lissabon/startseite/verein/336/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "1075",
+        "name": "SC Braga",
+        "href": "/sc-braga/startseite/verein/1075/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "2420",
+        "name": "Vitória Guimarães SC",
+        "href": "/vitoria-guimaraes-sc/startseite/verein/2420/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "3325",
+        "name": "GD Chaves",
+        "href": "/gd-chaves/startseite/verein/3325/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "1301",
+        "name": "CS Marítimo",
+        "href": "/cs-maritimo/startseite/verein/1301/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "2425",
+        "name": "Rio Ave FC",
+        "href": "/rio-ave-fc/startseite/verein/2425/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "2503",
+        "name": "Boavista Porto FC",
+        "href": "/boavista-porto-fc/startseite/verein/2503/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "2995",
+        "name": "FC Paços de Ferreira",
+        "href": "/fc-pacos-de-ferreira/startseite/verein/2995/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "2457",
+        "name": "CF Belenenses",
+        "href": "/cf-belenenses-lissabon/startseite/verein/2457/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "1085",
+        "name": "Vitória Setúbal FC",
+        "href": "/vitoria-setubal-fc/startseite/verein/1085/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "1465",
+        "name": "GD Estoril Praia",
+        "href": "/gd-estoril-praia/startseite/verein/1465/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "979",
+        "name": "Moreirense FC",
+        "href": "/moreirense-fc/startseite/verein/979/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "3336",
+        "name": "Desportivo Aves",
+        "href": "/desportivo-aves/startseite/verein/3336/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "3349",
+        "name": "CD Feirense",
+        "href": "/cd-feirense/startseite/verein/3349/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "7179",
+        "name": "CD Tondela",
+        "href": "/cd-tondela/startseite/verein/7179/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "7378",
+        "name": "Portimonense SC",
+        "href": "/portimonense-sc/startseite/verein/7378/saison_id/2017",
+        "league": {
+            "id": "PO1",
+            "title": "Liga NOS"
+        }
+    },
+    {
+        "id": "2784",
+        "name": "APOEL Nicosia",
+        "href": "/apoel-nikosia/startseite/verein/2784/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "429",
+        "name": "Apollon Limassol",
+        "href": "/apollon-limassol/startseite/verein/429/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "829",
+        "name": "Omonia Nicosia",
+        "href": "/omonia-nikosia/startseite/verein/829/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "2156",
+        "name": "AEK Larnaca",
+        "href": "/aek-larnaka/startseite/verein/2156/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "3899",
+        "name": "Anorthosis Famagusta",
+        "href": "/anorthosis-famagusta/startseite/verein/3899/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "786",
+        "name": "AEL Limassol",
+        "href": "/ael-limassol/startseite/verein/786/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "45457",
+        "name": "Pafos FC",
+        "href": "/pafos-fc/startseite/verein/45457/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "24326",
+        "name": "Ermis Aradippou",
+        "href": "/ermis-aradippou/startseite/verein/24326/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "3393",
+        "name": "Doxa Katokopias",
+        "href": "/doxa-katokopias/startseite/verein/3393/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "18945",
+        "name": "Nea Salamina Famagusta",
+        "href": "/nea-salamis-famagusta/startseite/verein/18945/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "10586",
+        "name": "Aris Limassol",
+        "href": "/aris-limassol/startseite/verein/10586/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "4590",
+        "name": "Ethnikos Achnas",
+        "href": "/ethnikos-achnas/startseite/verein/4590/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "44858",
+        "name": "Alki Oroklini",
+        "href": "/omonia-oroklinis/startseite/verein/44858/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "1402",
+        "name": "Olympiakos Nicosia",
+        "href": "/olympiakos-nikosia/startseite/verein/1402/saison_id/2017",
+        "league": {
+            "id": "ZYP1",
+            "title": "First Division"
+        }
+    },
+    {
+        "id": "419",
+        "name": "GNK Dinamo Zagreb",
+        "href": "/gnk-dinamo-zagreb/startseite/verein/419/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "144",
+        "name": "HNK Rijeka",
+        "href": "/hnk-rijeka/startseite/verein/144/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "447",
+        "name": "HNK Hajduk Split",
+        "href": "/hnk-hajduk-split/startseite/verein/447/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "327",
+        "name": "NK Osijek",
+        "href": "/nk-osijek/startseite/verein/327/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "11194",
+        "name": "NK Lokomotiva Zagreb",
+        "href": "/nk-lokomotiva-zagreb/startseite/verein/11194/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "918",
+        "name": "NK Inter Zapresic",
+        "href": "/nk-inter-zapresic/startseite/verein/918/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "2362",
+        "name": "Slaven Belupo Koprivnica",
+        "href": "/slaven-belupo-koprivnica/startseite/verein/2362/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "999",
+        "name": "NK Istra 1961",
+        "href": "/nk-istra-1961/startseite/verein/999/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "11083",
+        "name": "NK Rudes",
+        "href": "/nk-rudes/startseite/verein/11083/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "314",
+        "name": "HNK Cibalia Vinkovci",
+        "href": "/hnk-cibalia-vinkovci/startseite/verein/314/saison_id/2017",
+        "league": {
+            "id": "KR1",
+            "title": "1.HNL"
+        }
+    },
+    {
+        "id": "26",
+        "name": "FC Basel 1893",
+        "href": "/fc-basel-1893/startseite/verein/26/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "452",
+        "name": "BSC Young Boys",
+        "href": "/bsc-young-boys/startseite/verein/452/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "321",
+        "name": "FC Sion",
+        "href": "/fc-sion/startseite/verein/321/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "504",
+        "name": "Grasshopper Club Zurich",
+        "href": "/grasshopper-club-zurich/startseite/verein/504/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "260",
+        "name": "FC Zürich",
+        "href": "/fc-zurich/startseite/verein/260/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "257",
+        "name": "FC St. Gallen 1879",
+        "href": "/fc-st-gallen/startseite/verein/257/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "434",
+        "name": "FC Luzern",
+        "href": "/fc-luzern/startseite/verein/434/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "2790",
+        "name": "FC Lugano",
+        "href": "/fc-lugano/startseite/verein/2790/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "938",
+        "name": "FC Thun",
+        "href": "/fc-thun/startseite/verein/938/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "527",
+        "name": "FC Lausanne-Sport",
+        "href": "/fc-lausanne-sport/startseite/verein/527/saison_id/2017",
+        "league": {
+            "id": "C1",
+            "title": "Raiffeisen Super League"
+        }
+    },
+    {
+        "id": "114",
+        "name": "Besiktas JK",
+        "href": "/besiktas-istanbul/startseite/verein/114/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "141",
+        "name": "Galatasaray SK",
+        "href": "/galatasaray-istanbul/startseite/verein/141/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "36",
+        "name": "Fenerbahce SK",
+        "href": "/fenerbahce-istanbul/startseite/verein/36/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "6890",
+        "name": "Medipol Basaksehir",
+        "href": "/istanbul-buyuksehir-belediyespor/startseite/verein/6890/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "449",
+        "name": "Trabzonspor",
+        "href": "/trabzonspor/startseite/verein/449/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "589",
+        "name": "Antalyaspor",
+        "href": "/medical-park-antalyaspor/startseite/verein/589/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "2944",
+        "name": "Osmanlispor FK",
+        "href": "/ankaraspor/startseite/verein/2944/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "20",
+        "name": "Bursaspor",
+        "href": "/bursaspor/startseite/verein/20/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "3205",
+        "name": "Kayserispor",
+        "href": "/kayserispor/startseite/verein/3205/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "1467",
+        "name": "Göztepe",
+        "href": "/goztepe-izmir/startseite/verein/1467/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "2293",
+        "name": "Atiker Konyaspor",
+        "href": "/torku-konyaspor/startseite/verein/2293/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "11282",
+        "name": "Aytemiz Alanyaspor",
+        "href": "/alanyaspor/startseite/verein/11282/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "820",
+        "name": "Genclerbirligi Ankara",
+        "href": "/genclerbirligi-ankara/startseite/verein/820/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "19789",
+        "name": "Evkur Yeni Malatyaspor",
+        "href": "/yeni-malatyaspor/startseite/verein/19789/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "19771",
+        "name": "Teleset Mobilya Akhisarspor",
+        "href": "/akhisar-belediye-genclik-ve-spor/startseite/verein/19771/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "10484",
+        "name": "Kasimpasa",
+        "href": "/kasimpasa/startseite/verein/10484/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "2381",
+        "name": "Demir Grup Sivasspor",
+        "href": "/sivasspor/startseite/verein/2381/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "1506",
+        "name": "Kardemir Karabükspor",
+        "href": "/kardemir-karabukspor/startseite/verein/1506/saison_id/2017",
+        "league": {
+            "id": "TR1",
+            "title": "Süper Lig"
+        }
+    },
+    {
+        "id": "496",
+        "name": "Malmö FF",
+        "href": "/malmo-ff/startseite/verein/496/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "9614",
+        "name": "Östersunds FK",
+        "href": "/ostersunds-fk/startseite/verein/9614/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "272",
+        "name": "AIK Solna",
+        "href": "/aik-stockholm/startseite/verein/272/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "1109",
+        "name": "BK Häcken",
+        "href": "/bk-hacken/startseite/verein/1109/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "1044",
+        "name": "Djurgardens IF",
+        "href": "/djurgardens-if/startseite/verein/1044/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "1101",
+        "name": "IF Elfsborg",
+        "href": "/if-elfsborg-boras/startseite/verein/1101/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "801",
+        "name": "IFK Göteborg",
+        "href": "/ifk-goteborg/startseite/verein/801/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "2844",
+        "name": "IFK Norrköping",
+        "href": "/ifk-norrkoping/startseite/verein/2844/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "3654",
+        "name": "Kalmar FF",
+        "href": "/kalmar-ff/startseite/verein/3654/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "1059",
+        "name": "Hammarby IF",
+        "href": "/hammarby-if/startseite/verein/1059/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "2843",
+        "name": "GIF Sundsvall",
+        "href": "/gif-sundsvall/startseite/verein/2843/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "7411",
+        "name": "Jönköpings Södra IF",
+        "href": "/jonkopings-sodra-if/startseite/verein/7411/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "1056",
+        "name": "Örebro SK",
+        "href": "/orebro-sk/startseite/verein/1056/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "7945",
+        "name": "IK Sirius",
+        "href": "/ik-sirius/startseite/verein/7945/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "8877",
+        "name": "AFC Eskilstuna",
+        "href": "/afc-united/startseite/verein/8877/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "1011",
+        "name": "Halmstads BK",
+        "href": "/halmstads-bk/startseite/verein/1011/saison_id/2016",
+        "league": {
+            "id": "SE1",
+            "title": "Allsvenskan"
+        }
+    },
+    {
+        "id": "31614",
+        "name": "PFK Ludogorets Razgrad",
+        "href": "/pfk-ludogorets-razgrad/startseite/verein/31614/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "208",
+        "name": "CSKA Sofia",
+        "href": "/zska-sofia/startseite/verein/208/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "156",
+        "name": "Levski Sofia",
+        "href": "/levski-sofia/startseite/verein/156/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "2531",
+        "name": "Botev Plovdiv",
+        "href": "/botev-plovdiv/startseite/verein/2531/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "2259",
+        "name": "Lokomotiv Plovdiv",
+        "href": "/lokomotive-plovdiv/startseite/verein/2259/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "967",
+        "name": "Cherno More Varna",
+        "href": "/cherno-more-varna/startseite/verein/967/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "6764",
+        "name": "PFC Beroe Stara Zagora",
+        "href": "/pfc-beroe-stara-zagora/startseite/verein/6764/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "712",
+        "name": "Etar Veliko Tarnovo",
+        "href": "/etar-veliko-tarnovo/startseite/verein/712/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "40456",
+        "name": "FK Vereya Stara Zagora",
+        "href": "/fk-vereya-stara-zagora/startseite/verein/40456/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "40416",
+        "name": "Septemvri Sofia",
+        "href": "/septemvri-sofia/startseite/verein/40416/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "675",
+        "name": "Slavia Sofia",
+        "href": "/slavia-sofia/startseite/verein/675/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "521",
+        "name": "OFK Pirin Blagoevgrad",
+        "href": "/ofk-pirin-blagoevgrad/startseite/verein/521/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "19780",
+        "name": "FK Dunav Ruse",
+        "href": "/fk-dunav-ruse/startseite/verein/19780/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "36677",
+        "name": "FK Vitosha Bistritsa",
+        "href": "/fk-vitosha-bistritsa/startseite/verein/36677/saison_id/2017",
+        "league": {
+            "id": "BU1",
+            "title": "Parva Liga"
+        }
+    },
+    {
+        "id": "159",
+        "name": "Red Star Belgrade",
+        "href": "/roter-stern-belgrad/startseite/verein/159/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "669",
+        "name": "FK Partizan Belgrade",
+        "href": "/fk-partizan-belgrad/startseite/verein/669/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "6621",
+        "name": "FK Cukaricki",
+        "href": "/fk-cukaricki/startseite/verein/6621/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "7567",
+        "name": "FK Radnicki Nis",
+        "href": "/fk-radnicki-nis/startseite/verein/7567/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "448",
+        "name": "FK Vojvodina Novi Sad",
+        "href": "/fk-vojvodina-novi-sad/startseite/verein/448/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "788",
+        "name": "FK Napredak Krusevac",
+        "href": "/napredak-krusevac/startseite/verein/788/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "6622",
+        "name": "FK Mladost Lucani",
+        "href": "/mladost-lucani/startseite/verein/6622/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "902",
+        "name": "FK Rad",
+        "href": "/fk-rad-belgrad/startseite/verein/902/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "4634",
+        "name": "FK Vozdovac",
+        "href": "/fk-vozdovac/startseite/verein/4634/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "3521",
+        "name": "FK Zemun",
+        "href": "/fk-zemun/startseite/verein/3521/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "33328",
+        "name": "FK Radnik Surdulica",
+        "href": "/fk-radnik-surdulica/startseite/verein/33328/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "2209",
+        "name": "FK Borac Cacak",
+        "href": "/borac-cacak/startseite/verein/2209/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "4650",
+        "name": "FK Backa",
+        "href": "/fk-backa/startseite/verein/4650/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "8819",
+        "name": "FK Javor-Matis Ivanjica",
+        "href": "/fk-javor-ivanjica/startseite/verein/8819/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "15276",
+        "name": "FK Spartak Subotica",
+        "href": "/fk-spartak-subotica/startseite/verein/15276/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "4657",
+        "name": "FK Macva Sabac",
+        "href": "/fk-macva-sabac/startseite/verein/4657/saison_id/2017",
+        "league": {
+            "id": "SER1",
+            "title": "SuperLiga"
+        }
+    },
+    {
+        "id": "409",
+        "name": "Red Bull Salzburg",
+        "href": "/red-bull-salzburg/startseite/verein/409/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "170",
+        "name": "Rapid Vienna",
+        "href": "/sk-rapid-wien/startseite/verein/170/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "14",
+        "name": "Austria Vienna",
+        "href": "/fk-austria-wien/startseite/verein/14/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "122",
+        "name": "SK Sturm Graz",
+        "href": "/sk-sturm-graz/startseite/verein/122/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "3551",
+        "name": "SC Rheindorf Altach",
+        "href": "/sc-rheindorf-altach/startseite/verein/3551/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "413",
+        "name": "LASK Linz",
+        "href": "/lask-linz/startseite/verein/413/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "503",
+        "name": "FC Admira Wacker Mödling",
+        "href": "/fc-admira-wacker-modling/startseite/verein/503/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "2662",
+        "name": "SKN St. Pölten",
+        "href": "/skn-st-polten/startseite/verein/2662/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "856",
+        "name": "SV Mattersburg",
+        "href": "/sv-mattersburg/startseite/verein/856/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "4441",
+        "name": "Wolfsberger AC",
+        "href": "/wolfsberger-ac/startseite/verein/4441/saison_id/2017",
+        "league": {
+            "id": "A1",
+            "title": "Bundesliga"
+        }
+    },
+    {
+        "id": "255",
+        "name": "Legia Warszawa",
+        "href": "/legia-warschau/startseite/verein/255/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "238",
+        "name": "Lech Poznan",
+        "href": "/lech-pozna%C5%84/startseite/verein/238/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "4000",
+        "name": "Lechia Gdansk",
+        "href": "/lechia-gdansk/startseite/verein/4000/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "2300",
+        "name": "Jagiellonia Bialystok",
+        "href": "/jagiellonia-bialystok/startseite/verein/2300/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "422",
+        "name": "Wisla Kraków",
+        "href": "/wisla-krakau/startseite/verein/422/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "5689",
+        "name": "Cracovia Kraków",
+        "href": "/cracovia-krakau/startseite/verein/5689/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "324",
+        "name": "Pogon Szczecin",
+        "href": "/pogon-stettin/startseite/verein/324/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "168",
+        "name": "Zaglebie Lubin",
+        "href": "/zaglebie-lubin/startseite/verein/168/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "759",
+        "name": "Slask Wroclaw",
+        "href": "/slask-wroclaw/startseite/verein/759/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "15906",
+        "name": "Bruk-Bet Termalica Nieciecza",
+        "href": "/nieciecza-ks/startseite/verein/15906/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "6112",
+        "name": "Piast Gliwice",
+        "href": "/piast-gliwice/startseite/verein/6112/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "6110",
+        "name": "Korona Kielce",
+        "href": "/korona-kielce/startseite/verein/6110/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "2118",
+        "name": "Wisla Plock",
+        "href": "/wisla-plock/startseite/verein/2118/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "6107",
+        "name": "Arka Gdynia",
+        "href": "/arka-gdynia/startseite/verein/6107/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "8984",
+        "name": "Sandecja Nowy Sacz",
+        "href": "/sandecja-nowy-sacz/startseite/verein/8984/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "428",
+        "name": "Górnik Zabrze",
+        "href": "/gornik-zabrze/startseite/verein/428/saison_id/2017",
+        "league": {
+            "id": "PL1",
+            "title": "Lotto Ekstraklasa"
+        }
+    },
+    {
+        "id": "190",
+        "name": "FC Copenhagen",
+        "href": "/fc-kopenhagen/startseite/verein/190/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "206",
+        "name": "Bröndby IF",
+        "href": "/brondby-if/startseite/verein/206/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "865",
+        "name": "FC Midtjylland",
+        "href": "/fc-midtjylland/startseite/verein/865/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "1053",
+        "name": "Aalborg BK",
+        "href": "/aalborg-bk/startseite/verein/1053/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "678",
+        "name": "Aarhus GF",
+        "href": "/aarhus-gf/startseite/verein/678/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "5724",
+        "name": "Randers FC",
+        "href": "/randers-fc/startseite/verein/5724/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "2778",
+        "name": "FC Nordsjaelland",
+        "href": "/fc-nordsjaelland/startseite/verein/2778/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "173",
+        "name": "Odense Boldklub",
+        "href": "/odense-boldklub/startseite/verein/173/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "369",
+        "name": "Lyngby BK",
+        "href": "/lyngby-bk/startseite/verein/369/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "5817",
+        "name": "SönderjyskE",
+        "href": "/sonderjyske/startseite/verein/5817/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "1177",
+        "name": "Silkeborg IF",
+        "href": "/silkeborg-if/startseite/verein/1177/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "2414",
+        "name": "AC Horsens",
+        "href": "/ac-horsens/startseite/verein/2414/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "5818",
+        "name": "Hobro IK",
+        "href": "/hobro-ik/startseite/verein/5818/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "22110",
+        "name": "FC Helsingoer",
+        "href": "/fc-helsingor/startseite/verein/22110/saison_id/2017",
+        "league": {
+            "id": "DK1",
+            "title": "Alka Superligaen"
+        }
+    },
+    {
+        "id": "418",
+        "name": "Real Madrid",
+        "href": "/real-madrid/startseite/verein/418/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "131",
+        "name": "FC Barcelona",
+        "href": "/fc-barcelona/startseite/verein/131/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "13",
+        "name": "Atlético Madrid",
+        "href": "/atletico-madrid/startseite/verein/13/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "368",
+        "name": "Sevilla FC",
+        "href": "/fc-sevilla/startseite/verein/368/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "1050",
+        "name": "Villarreal CF",
+        "href": "/fc-villarreal/startseite/verein/1050/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "1049",
+        "name": "Valencia CF",
+        "href": "/fc-valencia/startseite/verein/1049/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "621",
+        "name": "Athletic Bilbao",
+        "href": "/athletic-bilbao/startseite/verein/621/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "681",
+        "name": "Real Sociedad",
+        "href": "/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "940",
+        "name": "Celta de Vigo",
+        "href": "/celta-vigo/startseite/verein/940/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "472",
+        "name": "UD Las Palmas",
+        "href": "/ud-las-palmas/startseite/verein/472/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "150",
+        "name": "Real Betis Balompié",
+        "href": "/real-betis-sevilla/startseite/verein/150/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "897",
+        "name": "Deportivo de La Coruña",
+        "href": "/deportivo-la-coruna/startseite/verein/897/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "714",
+        "name": "RCD Espanyol Barcelona",
+        "href": "/espanyol-barcelona/startseite/verein/714/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "1533",
+        "name": "SD Eibar",
+        "href": "/sd-eibar/startseite/verein/1533/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "1084",
+        "name": "Málaga CF",
+        "href": "/fc-malaga/startseite/verein/1084/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "1108",
+        "name": "Deportivo Alavés",
+        "href": "/deportivo-alaves/startseite/verein/1108/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "1244",
+        "name": "CD Leganés",
+        "href": "/cd-leganes/startseite/verein/1244/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "3368",
+        "name": "Levante UD",
+        "href": "/ud-levante/startseite/verein/3368/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "12321",
+        "name": "Girona FC",
+        "href": "/fc-girona/startseite/verein/12321/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "3709",
+        "name": "Getafe CF",
+        "href": "/fc-getafe/startseite/verein/3709/saison_id/2017",
+        "league": {
+            "id": "ES1",
+            "title": "LaLiga"
+        }
+    },
+    {
+        "id": "506",
+        "name": "Juventus FC",
+        "href": "/juventus-turin/startseite/verein/506/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "6195",
+        "name": "SSC Napoli",
+        "href": "/ssc-neapel/startseite/verein/6195/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "5",
+        "name": "AC Milan",
+        "href": "/ac-mailand/startseite/verein/5/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "12",
+        "name": "AS Roma",
+        "href": "/as-rom/startseite/verein/12/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "46",
+        "name": "Inter Milan",
+        "href": "/inter-mailand/startseite/verein/46/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "398",
+        "name": "SS Lazio",
+        "href": "/lazio-rom/startseite/verein/398/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "430",
+        "name": "ACF Fiorentina",
+        "href": "/ac-florenz/startseite/verein/430/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "800",
+        "name": "Atalanta BC",
+        "href": "/atalanta-bergamo/startseite/verein/800/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "416",
+        "name": "Torino FC",
+        "href": "/fc-turin/startseite/verein/416/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "1038",
+        "name": "UC Sampdoria",
+        "href": "/uc-sampdoria/startseite/verein/1038/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "6574",
+        "name": "US Sassuolo",
+        "href": "/us-sassuolo/startseite/verein/6574/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "252",
+        "name": "Genoa CFC",
+        "href": "/fc-genua-1893/startseite/verein/252/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "410",
+        "name": "Udinese Calcio",
+        "href": "/udinese-calcio/startseite/verein/410/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "1025",
+        "name": "Bologna FC 1909",
+        "href": "/fc-bologna/startseite/verein/1025/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "1390",
+        "name": "Cagliari Calcio",
+        "href": "/cagliari-calcio/startseite/verein/1390/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "862",
+        "name": "Chievo Verona",
+        "href": "/chievo-verona/startseite/verein/862/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "4171",
+        "name": "Benevento Calcio",
+        "href": "/benevento-calcio/startseite/verein/4171/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "276",
+        "name": "Hellas Verona",
+        "href": "/hellas-verona/startseite/verein/276/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "2722",
+        "name": "SPAL 2013",
+        "href": "/spal-2013/startseite/verein/2722/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "4083",
+        "name": "FC Crotone",
+        "href": "/fc-crotone/startseite/verein/4083/saison_id/2017",
+        "league": {
+            "id": "IT1",
+            "title": "Serie A"
+        }
+    },
+    {
+        "id": "583",
+        "name": "Paris Saint-Germain",
+        "href": "/fc-paris-saint-germain/startseite/verein/583/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "162",
+        "name": "AS Monaco",
+        "href": "/as-monaco/startseite/verein/162/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "1041",
+        "name": "Olympique Lyon",
+        "href": "/olympique-lyon/startseite/verein/1041/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "244",
+        "name": "Olympique Marseille",
+        "href": "/olympique-marseille/startseite/verein/244/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "417",
+        "name": "OGC Nice",
+        "href": "/ogc-nizza/startseite/verein/417/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "40",
+        "name": "FC Girondins Bordeaux",
+        "href": "/fc-girondins-bordeaux/startseite/verein/40/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "618",
+        "name": "AS Saint-Étienne",
+        "href": "/as-saint-etienne/startseite/verein/618/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "415",
+        "name": "FC Toulouse",
+        "href": "/fc-toulouse/startseite/verein/415/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "273",
+        "name": "Stade Rennais FC",
+        "href": "/fc-stade-rennes/startseite/verein/273/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "1082",
+        "name": "LOSC Lille",
+        "href": "/osc-lille/startseite/verein/1082/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "995",
+        "name": "FC Nantes",
+        "href": "/fc-nantes/startseite/verein/995/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "1420",
+        "name": "SCO Angers",
+        "href": "/sco-angers/startseite/verein/1420/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "969",
+        "name": "HSC Montpellier",
+        "href": "/hsc-montpellier/startseite/verein/969/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "855",
+        "name": "EA Guingamp",
+        "href": "/ea-guingamp/startseite/verein/855/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "2969",
+        "name": "FCO Dijon",
+        "href": "/fco-dijon/startseite/verein/2969/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "347",
+        "name": "FC Metz",
+        "href": "/fc-metz/startseite/verein/347/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "1162",
+        "name": "SM Caen",
+        "href": "/sm-caen/startseite/verein/1162/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "1416",
+        "name": "SC Amiens",
+        "href": "/sc-amiens/startseite/verein/1416/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "1095",
+        "name": "ES Troyes AC",
+        "href": "/es-troyes-ac/startseite/verein/1095/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "667",
+        "name": "RC Strasbourg Alsace",
+        "href": "/racing-strassburg/startseite/verein/667/saison_id/2017",
+        "league": {
+            "id": "FR1",
+            "title": "Ligue 1"
+        }
+    },
+    {
+        "id": "197",
+        "name": "AC Sparta Praha",
+        "href": "/ac-sparta-prag/startseite/verein/197/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "62",
+        "name": "SK Slavia Prag",
+        "href": "/sk-slavia-prag/startseite/verein/62/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "941",
+        "name": "FC Viktoria Plzen",
+        "href": "/fc-viktoria-pilsen/startseite/verein/941/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "5546",
+        "name": "FK Mladá Boleslav",
+        "href": "/fk-mlada-boleslav/startseite/verein/5546/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "5545",
+        "name": "FC FASTAV Zlin",
+        "href": "/fc-tescoma-zlin/startseite/verein/5545/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "697",
+        "name": "FC Slovan Liberec",
+        "href": "/fc-slovan-liberec/startseite/verein/697/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "814",
+        "name": "FK Teplice",
+        "href": "/fk-teplice/startseite/verein/814/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "1322",
+        "name": "FK Jablonec",
+        "href": "/fk-jablonec/startseite/verein/1322/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "2311",
+        "name": "SK Sigma Olomouc",
+        "href": "/sk-sigma-olmutz/startseite/verein/2311/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "450",
+        "name": "Dukla Prag",
+        "href": "/dukla-prag/startseite/verein/450/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "715",
+        "name": "FC Bohemians Prag 1905",
+        "href": "/fc-bohemians-prag-1905/startseite/verein/715/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "7975",
+        "name": "FC Vysocina Jihlava",
+        "href": "/fc-vysocina-jihlava/startseite/verein/7975/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "13726",
+        "name": "MFK Karvina",
+        "href": "/mfk-karvina/startseite/verein/13726/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "5225",
+        "name": "FC Zbrojovka Brno",
+        "href": "/fc-zbrojovka-brunn/startseite/verein/5225/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "5544",
+        "name": "1.FC Slovácko",
+        "href": "/1-fc-slovacko/startseite/verein/5544/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "377",
+        "name": "FC Banik Ostrava",
+        "href": "/fc-banik-ostrava/startseite/verein/377/saison_id/2017",
+        "league": {
+            "id": "TS1",
+            "title": "HET Liga"
+        }
+    },
+    {
+        "id": "27",
+        "name": "Bayern Munich",
+        "href": "/fc-bayern-munchen/startseite/verein/27/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "16",
+        "name": "Borussia Dortmund",
+        "href": "/borussia-dortmund/startseite/verein/16/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "23826",
+        "name": "RB Leipzig",
+        "href": "/rasenballsport-leipzig/startseite/verein/23826/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "15",
+        "name": "Bayer 04 Leverkusen",
+        "href": "/bayer-04-leverkusen/startseite/verein/15/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "33",
+        "name": "FC Schalke 04",
+        "href": "/fc-schalke-04/startseite/verein/33/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "18",
+        "name": "Borussia Mönchengladbach",
+        "href": "/borussia-monchengladbach/startseite/verein/18/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "82",
+        "name": "VfL Wolfsburg",
+        "href": "/vfl-wolfsburg/startseite/verein/82/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "533",
+        "name": "TSG 1899 Hoffenheim",
+        "href": "/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "3",
+        "name": "1. FC Köln",
+        "href": "/1-fc-koln/startseite/verein/3/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "44",
+        "name": "Hertha BSC",
+        "href": "/hertha-bsc/startseite/verein/44/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "24",
+        "name": "Eintracht Frankfurt",
+        "href": "/eintracht-frankfurt/startseite/verein/24/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "60",
+        "name": "SC Freiburg",
+        "href": "/sc-freiburg/startseite/verein/60/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "86",
+        "name": "SV Werder Bremen",
+        "href": "/sv-werder-bremen/startseite/verein/86/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "41",
+        "name": "Hamburger SV",
+        "href": "/hamburger-sv/startseite/verein/41/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "39",
+        "name": "1.FSV Mainz 05",
+        "href": "/1-fsv-mainz-05/startseite/verein/39/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "79",
+        "name": "VfB Stuttgart",
+        "href": "/vfb-stuttgart/startseite/verein/79/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "167",
+        "name": "FC Augsburg",
+        "href": "/fc-augsburg/startseite/verein/167/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "42",
+        "name": "Hannover 96",
+        "href": "/hannover-96/startseite/verein/42/saison_id/2017",
+        "league": {
+            "id": "L1",
+            "title": "1.Bundesliga"
+        }
+    },
+    {
+        "id": "58",
+        "name": "RSC Anderlecht",
+        "href": "/rsc-anderlecht/startseite/verein/58/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "2282",
+        "name": "Club Brugge KV",
+        "href": "/fc-brugge/startseite/verein/2282/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "157",
+        "name": "KAA Gent",
+        "href": "/kaa-gent/startseite/verein/157/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "1184",
+        "name": "KRC Genk",
+        "href": "/krc-genk/startseite/verein/1184/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "3057",
+        "name": "Standard Liège",
+        "href": "/standard-luttich/startseite/verein/3057/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "2861",
+        "name": "KV Oostende",
+        "href": "/kv-oostende/startseite/verein/2861/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "3508",
+        "name": "SV Zulte Waregem",
+        "href": "/sv-zulte-waregem/startseite/verein/3508/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "354",
+        "name": "KV Mechelen",
+        "href": "/kv-mechelen/startseite/verein/354/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "601",
+        "name": "KV Kortrijk",
+        "href": "/kv-kortrijk/startseite/verein/601/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "28643",
+        "name": "Waasland-Beveren",
+        "href": "/waasland-beveren/startseite/verein/28643/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "172",
+        "name": "RSC Charleroi",
+        "href": "/rsc-charleroi/startseite/verein/172/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "1096",
+        "name": "Royal Antwerp FC",
+        "href": "/royal-fc-antwerpen/startseite/verein/1096/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "475",
+        "name": "Sint-Truidense VV",
+        "href": "/vv-st-truiden/startseite/verein/475/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "498",
+        "name": "KSC Lokeren",
+        "href": "/ksc-lokeren/startseite/verein/498/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "29228",
+        "name": "Royal Excel Mouscron ",
+        "href": "/mouscron-peruwelz/startseite/verein/29228/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "1245",
+        "name": "KAS Eupen",
+        "href": "/kas-eupen/startseite/verein/1245/saison_id/2017",
+        "league": {
+            "id": "BE1",
+            "title": "Jupiler Pro League"
+        }
+    },
+    {
+        "id": "964",
+        "name": "Zenit St. Petersburg",
+        "href": "/zenit-st-petersburg/startseite/verein/964/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "232",
+        "name": "Spartak Moscow",
+        "href": "/spartak-moskau/startseite/verein/232/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "2410",
+        "name": "CSKA Moscow",
+        "href": "/zska-moskau/startseite/verein/2410/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "16704",
+        "name": "FK Krasnodar",
+        "href": "/fk-krasnodar/startseite/verein/16704/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "2698",
+        "name": "Rubin Kazan",
+        "href": "/rubin-kazan/startseite/verein/2698/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "932",
+        "name": "Lokomotiv Moscow",
+        "href": "/lokomotiv-moskau/startseite/verein/932/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "3725",
+        "name": "Akhmat Grozny",
+        "href": "/terek-grozny/startseite/verein/3725/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "121",
+        "name": "Dinamo Moscow",
+        "href": "/dinamo-moskau/startseite/verein/121/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "28095",
+        "name": "FK Ufa",
+        "href": "/fk-ufa/startseite/verein/28095/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "1083",
+        "name": "FK Rostov",
+        "href": "/fk-rostov/startseite/verein/1083/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "11127",
+        "name": "Ural Yekaterinburg",
+        "href": "/ural-sverdlovskaya-oblast/startseite/verein/11127/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "4128",
+        "name": "Amkar Perm",
+        "href": "/amkar-perm/startseite/verein/4128/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "3729",
+        "name": "Arsenal Tula",
+        "href": "/arsenal-tula/startseite/verein/3729/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "2700",
+        "name": "Anzhi Makhachkala",
+        "href": "/anzhi-makhachkala/startseite/verein/2700/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "40426",
+        "name": "FK Tosno",
+        "href": "/fk-tosno/startseite/verein/40426/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
+        "id": "3690",
+        "name": "SKA Khabarovsk",
+        "href": "/ska-energia-khabarovsk/startseite/verein/3690/saison_id/2017",
+        "league": {
+            "id": "RU1",
+            "title": "Premier Liga"
+        }
+    },
+    {
         "id": "631",
         "name": "Chelsea FC",
-        "href": "/fc-chelsea/startseite/verein/631/saison_id/2017"
+        "href": "/fc-chelsea/startseite/verein/631/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "281",
         "name": "Manchester City",
-        "href": "/manchester-city/startseite/verein/281/saison_id/2017"
+        "href": "/manchester-city/startseite/verein/281/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "985",
         "name": "Manchester United",
-        "href": "/manchester-united/startseite/verein/985/saison_id/2017"
+        "href": "/manchester-united/startseite/verein/985/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "148",
         "name": "Tottenham Hotspur",
-        "href": "/tottenham-hotspur/startseite/verein/148/saison_id/2017"
+        "href": "/tottenham-hotspur/startseite/verein/148/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "31",
         "name": "Liverpool FC",
-        "href": "/fc-liverpool/startseite/verein/31/saison_id/2017"
+        "href": "/fc-liverpool/startseite/verein/31/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "11",
         "name": "Arsenal FC",
-        "href": "/fc-arsenal/startseite/verein/11/saison_id/2017"
+        "href": "/fc-arsenal/startseite/verein/11/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "29",
         "name": "Everton FC",
-        "href": "/fc-everton/startseite/verein/29/saison_id/2017"
+        "href": "/fc-everton/startseite/verein/29/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "180",
         "name": "Southampton FC",
-        "href": "/fc-southampton/startseite/verein/180/saison_id/2017"
+        "href": "/fc-southampton/startseite/verein/180/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "1003",
         "name": "Leicester City",
-        "href": "/leicester-city/startseite/verein/1003/saison_id/2017"
+        "href": "/leicester-city/startseite/verein/1003/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "379",
         "name": "West Ham United",
-        "href": "/west-ham-united/startseite/verein/379/saison_id/2017"
+        "href": "/west-ham-united/startseite/verein/379/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "873",
         "name": "Crystal Palace",
-        "href": "/crystal-palace/startseite/verein/873/saison_id/2017"
+        "href": "/crystal-palace/startseite/verein/873/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "512",
         "name": "Stoke City",
-        "href": "/stoke-city/startseite/verein/512/saison_id/2017"
+        "href": "/stoke-city/startseite/verein/512/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "984",
         "name": "West Bromwich Albion",
-        "href": "/west-bromwich-albion/startseite/verein/984/saison_id/2017"
+        "href": "/west-bromwich-albion/startseite/verein/984/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "2288",
         "name": "Swansea City",
-        "href": "/swansea-city/startseite/verein/2288/saison_id/2017"
+        "href": "/swansea-city/startseite/verein/2288/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "1010",
         "name": "Watford FC",
-        "href": "/fc-watford/startseite/verein/1010/saison_id/2017"
+        "href": "/fc-watford/startseite/verein/1010/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "762",
         "name": "Newcastle United",
-        "href": "/newcastle-united/startseite/verein/762/saison_id/2017"
+        "href": "/newcastle-united/startseite/verein/762/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "989",
         "name": "AFC Bournemouth",
-        "href": "/afc-bournemouth/startseite/verein/989/saison_id/2017"
+        "href": "/afc-bournemouth/startseite/verein/989/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "1237",
         "name": "Brighton & Hove Albion",
-        "href": "/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2017"
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "1132",
         "name": "Burnley FC",
-        "href": "/fc-burnley/startseite/verein/1132/saison_id/2017"
+        "href": "/fc-burnley/startseite/verein/1132/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
     },
     {
         "id": "1110",
         "name": "Huddersfield Town",
-        "href": "/huddersfield-town/startseite/verein/1110/saison_id/2017"
+        "href": "/huddersfield-town/startseite/verein/1110/saison_id/2017",
+        "league": {
+            "id": "GB1",
+            "title": "Premier League"
+        }
+    },
+    {
+        "id": "610",
+        "name": "Ajax Amsterdam",
+        "href": "/ajax-amsterdam/startseite/verein/610/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "383",
+        "name": "PSV Eindhoven",
+        "href": "/psv-eindhoven/startseite/verein/383/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "234",
+        "name": "Feyenoord Rotterdam",
+        "href": "/feyenoord-rotterdam/startseite/verein/234/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "1090",
+        "name": "AZ Alkmaar",
+        "href": "/az-alkmaar/startseite/verein/1090/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "200",
+        "name": "FC Utrecht",
+        "href": "/fc-utrecht/startseite/verein/200/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "306",
+        "name": "SC Heerenveen",
+        "href": "/sc-heerenveen/startseite/verein/306/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "499",
+        "name": "Vitesse Arnhem",
+        "href": "/vitesse-arnheim/startseite/verein/499/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "202",
+        "name": "FC Groningen",
+        "href": "/fc-groningen/startseite/verein/202/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "317",
+        "name": "FC Twente Enschede",
+        "href": "/fc-twente-enschede/startseite/verein/317/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "1269",
+        "name": "PEC Zwolle",
+        "href": "/pec-zwolle/startseite/verein/1269/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "1304",
+        "name": "Heracles Almelo",
+        "href": "/heracles-almelo/startseite/verein/1304/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "1268",
+        "name": "ADO Den Haag",
+        "href": "/ado-den-haag/startseite/verein/1268/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "403",
+        "name": "Willem II Tilburg",
+        "href": "/willem-ii-tilburg/startseite/verein/403/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "798",
+        "name": "Excelsior Rotterdam",
+        "href": "/excelsior-rotterdam/startseite/verein/798/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "468",
+        "name": "Sparta Rotterdam",
+        "href": "/sparta-rotterdam/startseite/verein/468/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "1426",
+        "name": "VVV-Venlo",
+        "href": "/vvv-venlo/startseite/verein/1426/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "192",
+        "name": "Roda JC Kerkrade",
+        "href": "/roda-jc-kerkrade/startseite/verein/192/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
+    },
+    {
+        "id": "132",
+        "name": "NAC Breda",
+        "href": "/nac-breda/startseite/verein/132/saison_id/2017",
+        "league": {
+            "id": "NL1",
+            "title": "Eredivisie"
+        }
     }
 ]
