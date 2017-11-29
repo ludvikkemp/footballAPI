@@ -53,7 +53,7 @@ app.get('/1', (req, res) => {
 // *** 2.Scrape Teams *** //
 app.get('/2', (req, res) => {
   if (leagues.length === 0) 
-    res.json({Error: 'You must call api/scrapeleagues first'}); 
+    res.json({Error: 'You must call api/1 first'}); 
   
   for (let i = 0; i < leagues.length; i++) {
     request({ url: mainURL + leagues[i].href, form: form, headers: headers }, (err, res, body) => {
@@ -92,7 +92,7 @@ app.get('/2', (req, res) => {
 // *** 3.Scrape Players *** //
 app.get('/3', (req, res) => {
   if (teams.length === 0) 
-    res.json({Error: 'You must call api/scrapeteams first'});
+    res.json({Error: 'You must call api/2 first'});
   
   for (let i = 0; i < teams.length; i++) {
     request({ url: mainURL + teams[i].href, form: form, headers: headers }, (err, res, body) => {
