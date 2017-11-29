@@ -70,7 +70,8 @@ app.get('/2', (req, res) => {
           href: data[j].attribs.href,
           league: {
             id: leagues[i].id,
-            title: leagues[i].title
+            title: leagues[i].title,
+            nation: leagues[i].nation,
           }
         }
         teams.push(obj);
