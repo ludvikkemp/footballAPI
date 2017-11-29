@@ -13,6 +13,7 @@ const mainURL = 'https://www.transfermarkt.com';
 let leagues = [];
 let teams = [];
 let players = [];
+let playersInfo = [];
 
 // Form and headers for pretending to be a browser
 // in order to be able to scrape transfermarkt for data
@@ -116,8 +117,8 @@ app.get('/3', (req, res) => {
   }
 
   setTimeout(() => {
-    fs.writeFile('players.json', JSON.stringify(players, null, 4), (err) => {
-      console.log('players.json successfully written!');
+    fs.writeFile('playersLite.json', JSON.stringify(players, null, 4), (err) => {
+      console.log('playersLite.json successfully written!');
     })
   }, 20000)
   
@@ -125,8 +126,46 @@ app.get('/3', (req, res) => {
 })
 
 // *** 4.Scrape Player Stats *** //
-app.get('4', (req, res) => {
-  // TODO: Scrape for player stats or Team stats
+app.get('/4', (req, res) => {
+  // Not working !!
+  if (players.length === 0) 
+    res.json({Error: 'You must call api/3 first'});
+
+  console.log('players.lenght: ',players.length);
+  console.log('players[1].url: ',players[1].url);
+  console.log('mainURL + players[1].url: ',mainURL + players[1].url);
+  /*
+  for (let i = 0; i < players.length; i++) {
+    request({ url: mainURL + players[i].url, form: form, headers: headers }, (err, res, body) => {
+      const $ = cheerio.load(body);
+      const data = $('.dataHeader .dataContent .dataDaten p span')
+                    .map(function(i, elem) { return $(this).text()
+                      .replace(/[\n\t\r]/g,"").trim(); });
+      console.log(i);
+                      
+      const obj = {
+        personal: {
+          dateOfBirth: data[1],
+          placeOfBirth: data[3],
+          nationality: data[6],
+          height: data[9],
+          position: data[11],
+          contractExpires: data[13],
+          caps: data[17].split('/')[0],
+          goals: data[17].split('/')[1]
+        }
+      }
+      playersInfo.push(obj);
+      
+    })
+  }
+
+  setTimeout(() => {
+    fs.writeFile('playersInfo.json', JSON.stringify(playersInfo, null, 4), (err) => {
+      console.log('playersInfo.json successfully written!');
+    })
+  }, 30000)
+  */
   res.json({message:'Success'});
 })
 
